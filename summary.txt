@@ -1,0 +1,1025 @@
+Real-Time Object Detection Summary
+
+Object: person, Confidence: 0.27, Color: Black, Position: Bottom-Right, Width: 117, Height: 50
+Object: person, Confidence: 0.85, Color: White, Position: Bottom-Center, Width: 427, Height: 295
+Object: person, Confidence: 0.29, Color: Black, Position: Bottom-Right, Width: 115, Height: 50
+Object: person, Confidence: 0.65, Color: White, Position: Bottom-Center, Width: 409, Height: 285
+Object: person, Confidence: 0.32, Color: Black, Position: Bottom-Right, Width: 116, Height: 49
+Object: person, Confidence: 0.86, Color: White, Position: Bottom-Center, Width: 421, Height: 294
+Object: person, Confidence: 0.31, Color: Black, Position: Bottom-Right, Width: 116, Height: 51
+Object: person, Confidence: 0.85, Color: White, Position: Bottom-Center, Width: 416, Height: 295
+Object: person, Confidence: 0.34, Color: Black, Position: Bottom-Right, Width: 117, Height: 49
+Object: person, Confidence: 0.84, Color: White, Position: Bottom-Center, Width: 398, Height: 296
+Object: person, Confidence: 0.31, Color: Black, Position: Bottom-Right, Width: 116, Height: 48
+Object: person, Confidence: 0.90, Color: White, Position: Bottom-Center, Width: 403, Height: 296
+Real-Time Object Detection Summary
+
+Object: person, Confidence: 0.31, Color: Black, Position: Bottom-Right, Width: 115, Height: 47
+Object: person, Confidence: 0.33, Color: Black, Position: Bottom-Right, Width: 117, Height: 49
+Object: person, Confidence: 0.86, Color: White, Position: Bottom-Center, Width: 398, Height: 289
+Object: person, Confidence: 0.31, Color: Black, Position: Bottom-Right, Width: 117, Height: 50
+Object: person, Confidence: 0.89, Color: White, Position: Bottom-Center, Width: 399, Height: 284
+Object: person, Confidence: 0.27, Color: Black, Position: Bottom-Right, Width: 116, Height: 50
+Object: person, Confidence: 0.85, Color: White, Position: Bottom-Center, Width: 394, Height: 290
+Object: person, Confidence: 0.33, Color: Black, Position: Bottom-Right, Width: 116, Height: 51
+Object: person, Confidence: 0.85, Color: White, Position: Bottom-Center, Width: 397, Height: 292
+Object: person, Confidence: 0.30, Color: Black, Position: Bottom-Right, Width: 115, Height: 51
+Object: person, Confidence: 0.87, Color: White, Position: Bottom-Center, Width: 398, Height: 292
+Object: tie, Confidence: 0.27, Color: Other, Position: Bottom-Center, Width: 82, Height: 131
+Object: person, Confidence: 0.30, Color: Black, Position: Bottom-Right, Width: 115, Height: 48
+Object: person, Confidence: 0.86, Color: Green, Position: Bottom-Center, Width: 415, Height: 284
+Object: person, Confidence: 0.32, Color: Black, Position: Bottom-Right, Width: 115, Height: 51
+Object: person, Confidence: 0.86, Color: White, Position: Bottom-Center, Width: 407, Height: 285
+Object: person, Confidence: 0.26, Color: Black, Position: Bottom-Right, Width: 115, Height: 51
+Object: dog, Confidence: 0.29, Color: Green, Position: Bottom-Right, Width: 115, Height: 51
+Object: person, Confidence: 0.88, Color: White, Position: Bottom-Center, Width: 405, Height: 283
+Object: person, Confidence: 0.31, Color: Black, Position: Bottom-Right, Width: 117, Height: 50
+Object: person, Confidence: 0.87, Color: White, Position: Bottom-Center, Width: 401, Height: 286
+Object: person, Confidence: 0.37, Color: Black, Position: Bottom-Right, Width: 115, Height: 45
+Object: person, Confidence: 0.83, Color: White, Position: Bottom-Center, Width: 417, Height: 302
+Object: tie, Confidence: 0.30, Color: Other, Position: Bottom-Center, Width: 90, Height: 139
+Object: person, Confidence: 0.34, Color: Black, Position: Bottom-Right, Width: 118, Height: 51
+Object: person, Confidence: 0.90, Color: Green, Position: Bottom-Center, Width: 400, Height: 296
+Object: person, Confidence: 0.32, Color: Black, Position: Bottom-Right, Width: 116, Height: 50
+Object: person, Confidence: 0.83, Color: White, Position: Bottom-Center, Width: 409, Height: 304
+Object: person, Confidence: 0.87, Color: Black, Position: Bottom-Center, Width: 344, Height: 294
+Object: person, Confidence: 0.90, Color: Black, Position: Bottom-Center, Width: 349, Height: 301
+Object: person, Confidence: 0.46, Color: Black, Position: Bottom-Center, Width: 594, Height: 314
+Object: person, Confidence: 0.52, Color: White, Position: Bottom-Center, Width: 509, Height: 288
+Object: dog, Confidence: 0.53, Color: Green, Position: Bottom-Right, Width: 114, Height: 57
+Object: person, Confidence: 0.71, Color: White, Position: Bottom-Center, Width: 507, Height: 284
+Object: dog, Confidence: 0.29, Color: Black, Position: Bottom-Right, Width: 114, Height: 58
+Object: person, Confidence: 0.81, Color: Green, Position: Bottom-Center, Width: 508, Height: 291
+Object: cell phone, Confidence: 0.32, Color: Black, Position: Top-Center, Width: 198, Height: 110
+Object: dog, Confidence: 0.39, Color: Black, Position: Bottom-Right, Width: 114, Height: 58
+Object: person, Confidence: 0.86, Color: Green, Position: Bottom-Center, Width: 501, Height: 300
+Object: dog, Confidence: 0.27, Color: Black, Position: Bottom-Right, Width: 114, Height: 59
+Object: cell phone, Confidence: 0.43, Color: Black, Position: Top-Center, Width: 243, Height: 138
+Object: person, Confidence: 0.87, Color: Green, Position: Bottom-Center, Width: 496, Height: 300
+Object: cell phone, Confidence: 0.49, Color: Black, Position: Top-Center, Width: 251, Height: 136
+Object: person, Confidence: 0.87, Color: Green, Position: Bottom-Center, Width: 501, Height: 299
+Object: person, Confidence: 0.84, Color: White, Position: Bottom-Center, Width: 443, Height: 294
+Real-Time Object Detection Summary
+
+Object: person, Confidence: 0.36, Color: Black, Position: Center-Right, Width: 147, Height: 389
+Object: suitcase, Confidence: 0.27, Color: Black, Position: Center, Width: 555, Height: 303
+Object: suitcase, Confidence: 0.29, Color: Black, Position: Center, Width: 549, Height: 290
+Object: suitcase, Confidence: 0.25, Color: Black, Position: Center, Width: 552, Height: 301
+Object: cell phone, Confidence: 0.34, Color: Other, Position: Center, Width: 246, Height: 182
+Object: person, Confidence: 0.27, Color: Black, Position: Center-Right, Width: 362, Height: 399
+Object: person, Confidence: 0.29, Color: Green, Position: Center, Width: 616, Height: 304
+Object: person, Confidence: 0.46, Color: Black, Position: Center-Right, Width: 382, Height: 254
+Object: person, Confidence: 0.39, Color: Black, Position: Center-Right, Width: 385, Height: 257
+Object: person, Confidence: 0.48, Color: Black, Position: Center-Right, Width: 382, Height: 254
+Object: person, Confidence: 0.39, Color: Black, Position: Center-Right, Width: 385, Height: 248
+Object: person, Confidence: 0.40, Color: Black, Position: Center-Right, Width: 382, Height: 251
+Object: person, Confidence: 0.26, Color: Other, Position: Center-Right, Width: 333, Height: 248
+Object: person, Confidence: 0.40, Color: White, Position: Center-Right, Width: 282, Height: 412
+Object: person, Confidence: 0.37, Color: Black, Position: Center-Right, Width: 251, Height: 404
+Object: person, Confidence: 0.28, Color: Black, Position: Center-Right, Width: 249, Height: 412
+Object: person, Confidence: 0.27, Color: Black, Position: Center-Right, Width: 254, Height: 398
+Object: toilet, Confidence: 0.38, Color: Gray, Position: Top-Center, Width: 128, Height: 31
+Real-Time Object Detection Summary
+
+Object: laptop, Confidence: 0.28, Color: Gray, Position: Center-Right, Width: 54, Height: 52
+Object: chair, Confidence: 0.61, Color: Green, Position: Bottom-Right, Width: 66, Height: 85
+Object: person, Confidence: 0.72, Color: Green, Position: Center, Width: 584, Height: 477
+Object: person, Confidence: 0.73, Color: Green, Position: Center-Right, Width: 75, Height: 70
+Object: chair, Confidence: 0.29, Color: Black, Position: Bottom-Left, Width: 58, Height: 142
+Object: person, Confidence: 0.62, Color: Green, Position: Center, Width: 552, Height: 480
+Object: person, Confidence: 0.69, Color: Black, Position: Center-Right, Width: 71, Height: 68
+Object: chair, Confidence: 0.73, Color: Gray, Position: Bottom-Right, Width: 61, Height: 83
+Object: person, Confidence: 0.48, Color: White, Position: Center, Width: 584, Height: 479
+Object: chair, Confidence: 0.71, Color: Other, Position: Bottom-Right, Width: 54, Height: 77
+Object: person, Confidence: 0.57, Color: Other, Position: Center-Right, Width: 72, Height: 68
+Object: chair, Confidence: 0.71, Color: White, Position: Bottom-Right, Width: 60, Height: 80
+Object: person, Confidence: 0.73, Color: Green, Position: Center, Width: 576, Height: 480
+Object: chair, Confidence: 0.70, Color: Other, Position: Bottom-Right, Width: 61, Height: 81
+Object: person, Confidence: 0.71, Color: Green, Position: Center, Width: 574, Height: 478
+Object: person, Confidence: 0.76, Color: White, Position: Center-Right, Width: 69, Height: 69
+Object: laptop, Confidence: 0.32, Color: Gray, Position: Center-Right, Width: 50, Height: 52
+Object: person, Confidence: 0.71, Color: White, Position: Center, Width: 576, Height: 478
+Object: chair, Confidence: 0.72, Color: Green, Position: Bottom-Right, Width: 61, Height: 81
+Object: person, Confidence: 0.81, Color: Green, Position: Center-Right, Width: 70, Height: 69
+Object: laptop, Confidence: 0.28, Color: Gray, Position: Center-Right, Width: 51, Height: 53
+Object: person, Confidence: 0.69, Color: White, Position: Center, Width: 568, Height: 478
+Object: chair, Confidence: 0.73, Color: Green, Position: Bottom-Right, Width: 61, Height: 82
+Object: person, Confidence: 0.81, Color: Green, Position: Center-Right, Width: 67, Height: 69
+Object: laptop, Confidence: 0.27, Color: Gray, Position: Center-Right, Width: 50, Height: 53
+Object: person, Confidence: 0.65, Color: White, Position: Center, Width: 575, Height: 479
+Object: chair, Confidence: 0.69, Color: Green, Position: Bottom-Right, Width: 61, Height: 82
+Object: person, Confidence: 0.82, Color: Green, Position: Center-Right, Width: 67, Height: 70
+Object: laptop, Confidence: 0.40, Color: Other, Position: Center-Right, Width: 51, Height: 52
+Object: person, Confidence: 0.67, Color: White, Position: Center, Width: 573, Height: 480
+Object: chair, Confidence: 0.76, Color: Green, Position: Bottom-Right, Width: 60, Height: 82
+Object: person, Confidence: 0.80, Color: Green, Position: Center-Right, Width: 66, Height: 70
+Object: person, Confidence: 0.67, Color: White, Position: Center, Width: 580, Height: 480
+Object: chair, Confidence: 0.73, Color: White, Position: Bottom-Right, Width: 60, Height: 81
+Object: person, Confidence: 0.79, Color: Gray, Position: Center-Right, Width: 62, Height: 71
+Object: person, Confidence: 0.74, Color: Black, Position: Center, Width: 591, Height: 475
+Object: person, Confidence: 0.60, Color: White, Position: Center-Right, Width: 288, Height: 475
+Object: person, Confidence: 0.35, Color: Black, Position: Center, Width: 512, Height: 228
+Object: person, Confidence: 0.30, Color: Black, Position: Top-Right, Width: 250, Height: 230
+Object: person, Confidence: 0.43, Color: Black, Position: Top-Center, Width: 471, Height: 286
+Object: dining table, Confidence: 0.34, Color: Other, Position: Center, Width: 633, Height: 321
+Object: person, Confidence: 0.43, Color: Green, Position: Center-Right, Width: 235, Height: 216
+Object: person, Confidence: 0.30, Color: Black, Position: Center-Right, Width: 359, Height: 147
+Object: person, Confidence: 0.43, Color: Black, Position: Center-Right, Width: 364, Height: 147
+Object: person, Confidence: 0.32, Color: Black, Position: Center-Right, Width: 363, Height: 158
+Object: dining table, Confidence: 0.33, Color: Other, Position: Center, Width: 622, Height: 336
+Object: dining table, Confidence: 0.41, Color: Other, Position: Center, Width: 627, Height: 335
+Object: chair, Confidence: 0.25, Color: Black, Position: Center-Right, Width: 123, Height: 162
+Object: person, Confidence: 0.33, Color: Green, Position: Center-Right, Width: 59, Height: 183
+Object: dining table, Confidence: 0.40, Color: Green, Position: Center, Width: 628, Height: 334
+Object: chair, Confidence: 0.27, Color: Black, Position: Center-Right, Width: 60, Height: 188
+Object: dining table, Confidence: 0.38, Color: Green, Position: Center, Width: 630, Height: 334
+Object: chair, Confidence: 0.27, Color: Black, Position: Top-Left, Width: 130, Height: 135
+Object: chair, Confidence: 0.30, Color: Black, Position: Center-Right, Width: 61, Height: 188
+Object: chair, Confidence: 0.36, Color: Green, Position: Center-Right, Width: 123, Height: 161
+Object: dining table, Confidence: 0.36, Color: Green, Position: Center, Width: 628, Height: 334
+Object: chair, Confidence: 0.26, Color: Black, Position: Center-Right, Width: 60, Height: 191
+Object: dining table, Confidence: 0.35, Color: Green, Position: Center, Width: 625, Height: 334
+Object: chair, Confidence: 0.31, Color: Black, Position: Center-Right, Width: 62, Height: 190
+Object: chair, Confidence: 0.37, Color: Green, Position: Center-Right, Width: 124, Height: 170
+Object: dining table, Confidence: 0.37, Color: Green, Position: Center, Width: 628, Height: 335
+Object: chair, Confidence: 0.26, Color: Black, Position: Top-Left, Width: 136, Height: 135
+Object: chair, Confidence: 0.28, Color: Black, Position: Center-Right, Width: 103, Height: 159
+Object: dining table, Confidence: 0.39, Color: Green, Position: Center, Width: 627, Height: 334
+Object: person, Confidence: 0.45, Color: Green, Position: Center-Right, Width: 45, Height: 220
+Object: dining table, Confidence: 0.34, Color: Other, Position: Center, Width: 627, Height: 334
+Object: chair, Confidence: 0.54, Color: Green, Position: Center-Right, Width: 127, Height: 180
+Object: person, Confidence: 0.30, Color: Black, Position: Center-Left, Width: 202, Height: 115
+Object: horse, Confidence: 0.50, Color: Green, Position: Top-Right, Width: 422, Height: 263
+Object: orange, Confidence: 0.30, Color: Other, Position: Center-Left, Width: 92, Height: 93
+Object: knife, Confidence: 0.32, Color: Gray, Position: Center, Width: 155, Height: 33
+Object: person, Confidence: 0.49, Color: Green, Position: Top-Right, Width: 366, Height: 244
+Object: sports ball, Confidence: 0.53, Color: Green, Position: Center-Left, Width: 93, Height: 94
+Object: person, Confidence: 0.34, Color: Black, Position: Center-Right, Width: 387, Height: 220
+Object: person, Confidence: 0.49, Color: Black, Position: Center-Right, Width: 384, Height: 215
+Object: person, Confidence: 0.33, Color: Black, Position: Center-Right, Width: 392, Height: 222
+Object: sports ball, Confidence: 0.46, Color: Green, Position: Center, Width: 87, Height: 82
+Object: person, Confidence: 0.36, Color: Black, Position: Center-Right, Width: 391, Height: 220
+Object: sports ball, Confidence: 0.45, Color: Green, Position: Center, Width: 88, Height: 82
+Object: sports ball, Confidence: 0.44, Color: Other, Position: Center, Width: 89, Height: 82
+Object: person, Confidence: 0.49, Color: Green, Position: Center-Right, Width: 386, Height: 220
+Object: sports ball, Confidence: 0.38, Color: Other, Position: Center, Width: 86, Height: 82
+Object: person, Confidence: 0.40, Color: Green, Position: Center-Right, Width: 385, Height: 226
+Object: person, Confidence: 0.48, Color: Black, Position: Center-Right, Width: 375, Height: 218
+Object: person, Confidence: 0.37, Color: Black, Position: Center-Right, Width: 380, Height: 224
+Object: person, Confidence: 0.39, Color: Black, Position: Center-Right, Width: 385, Height: 222
+Object: person, Confidence: 0.41, Color: Black, Position: Center-Right, Width: 382, Height: 223
+Object: dog, Confidence: 0.49, Color: White, Position: Top-Right, Width: 410, Height: 133
+Object: person, Confidence: 0.29, Color: Black, Position: Center-Right, Width: 390, Height: 455
+Object: person, Confidence: 0.25, Color: White, Position: Center-Left, Width: 276, Height: 325
+Object: knife, Confidence: 0.40, Color: Other, Position: Center-Left, Width: 96, Height: 74
+Object: person, Confidence: 0.37, Color: Black, Position: Center, Width: 625, Height: 431
+Object: person, Confidence: 0.26, Color: Black, Position: Center, Width: 462, Height: 339
+Real-Time Object Detection Summary
+
+Object: person, Confidence: 0.83, Color: Black, Position: Center, Width: 458, Height: 333
+Object: person, Confidence: 0.80, Color: Black, Position: Center, Width: 468, Height: 337
+Object: person, Confidence: 0.83, Color: Black, Position: Center, Width: 465, Height: 332
+Object: person, Confidence: 0.86, Color: Black, Position: Center, Width: 465, Height: 335
+Object: person, Confidence: 0.81, Color: Black, Position: Center, Width: 476, Height: 336
+Object: person, Confidence: 0.87, Color: Black, Position: Center, Width: 470, Height: 334
+Object: person, Confidence: 0.87, Color: Black, Position: Center, Width: 464, Height: 333
+Object: person, Confidence: 0.86, Color: Black, Position: Center, Width: 468, Height: 335
+Object: person, Confidence: 0.82, Color: Black, Position: Center, Width: 472, Height: 334
+Object: person, Confidence: 0.78, Color: Black, Position: Center, Width: 470, Height: 336
+Object: person, Confidence: 0.80, Color: Black, Position: Center, Width: 468, Height: 336
+Object: person, Confidence: 0.83, Color: White, Position: Center, Width: 436, Height: 367
+Object: person, Confidence: 0.89, Color: Black, Position: Center, Width: 456, Height: 356
+Object: person, Confidence: 0.91, Color: White, Position: Center, Width: 431, Height: 360
+Object: person, Confidence: 0.50, Color: Black, Position: Bottom-Right, Width: 183, Height: 188
+Object: bed, Confidence: 0.30, Color: Other, Position: Bottom-Center, Width: 613, Height: 286
+Object: person, Confidence: 0.35, Color: Black, Position: Top-Right, Width: 235, Height: 252
+Object: person, Confidence: 0.39, Color: Black, Position: Top-Right, Width: 231, Height: 201
+Object: chair, Confidence: 0.31, Color: Other, Position: Top-Left, Width: 88, Height: 62
+Object: dining table, Confidence: 0.33, Color: Gray, Position: Center, Width: 628, Height: 389
+Object: person, Confidence: 0.69, Color: Green, Position: Top-Right, Width: 352, Height: 199
+Object: bottle, Confidence: 0.85, Color: Green, Position: Top-Center, Width: 92, Height: 220
+Object: person, Confidence: 0.60, Color: Black, Position: Top-Right, Width: 370, Height: 186
+Object: bottle, Confidence: 0.82, Color: Green, Position: Top-Center, Width: 77, Height: 176
+Object: chair, Confidence: 0.29, Color: Other, Position: Top-Left, Width: 83, Height: 62
+Object: person, Confidence: 0.70, Color: Green, Position: Top-Right, Width: 352, Height: 183
+Object: bottle, Confidence: 0.85, Color: Green, Position: Top-Center, Width: 71, Height: 170
+Object: chair, Confidence: 0.26, Color: Other, Position: Top-Left, Width: 83, Height: 61
+Object: person, Confidence: 0.64, Color: Green, Position: Top-Right, Width: 357, Height: 185
+Object: bottle, Confidence: 0.84, Color: Green, Position: Top-Center, Width: 71, Height: 170
+Object: dining table, Confidence: 0.32, Color: Gray, Position: Bottom-Center, Width: 616, Height: 192
+Object: person, Confidence: 0.28, Color: Black, Position: Center-Right, Width: 84, Height: 373
+Object: dining table, Confidence: 0.25, Color: Other, Position: Bottom-Center, Width: 616, Height: 229
+Object: person, Confidence: 0.38, Color: Green, Position: Center-Right, Width: 87, Height: 389
+Object: bottle, Confidence: 0.27, Color: White, Position: Center, Width: 60, Height: 192
+Object: person, Confidence: 0.57, Color: Green, Position: Center-Right, Width: 83, Height: 289
+Object: person, Confidence: 0.31, Color: Black, Position: Center-Right, Width: 102, Height: 278
+Object: person, Confidence: 0.43, Color: Black, Position: Top-Right, Width: 56, Height: 126
+Object: suitcase, Confidence: 0.28, Color: Black, Position: Center-Right, Width: 213, Height: 212
+Object: person, Confidence: 0.42, Color: Green, Position: Top-Right, Width: 56, Height: 127
+Object: person, Confidence: 0.44, Color: Black, Position: Top-Right, Width: 56, Height: 130
+Object: person, Confidence: 0.28, Color: Black, Position: Center-Right, Width: 96, Height: 236
+Object: person, Confidence: 0.41, Color: Green, Position: Top-Right, Width: 56, Height: 128
+Object: person, Confidence: 0.35, Color: Black, Position: Top-Right, Width: 55, Height: 127
+Object: bed, Confidence: 0.31, Color: Other, Position: Bottom-Center, Width: 598, Height: 271
+Object: person, Confidence: 0.47, Color: Green, Position: Center-Right, Width: 357, Height: 217
+Object: bottle, Confidence: 0.71, Color: Green, Position: Center, Width: 63, Height: 196
+Object: person, Confidence: 0.46, Color: Black, Position: Center-Right, Width: 343, Height: 223
+Object: bottle, Confidence: 0.85, Color: Green, Position: Center, Width: 65, Height: 199
+Object: dining table, Confidence: 0.27, Color: Other, Position: Bottom-Center, Width: 610, Height: 227
+Object: person, Confidence: 0.30, Color: Green, Position: Center-Right, Width: 47, Height: 185
+Object: bottle, Confidence: 0.73, Color: Green, Position: Center, Width: 63, Height: 200
+Object: suitcase, Confidence: 0.26, Color: Black, Position: Center-Right, Width: 212, Height: 201
+Object: dining table, Confidence: 0.31, Color: Green, Position: Bottom-Center, Width: 610, Height: 227
+Object: person, Confidence: 0.62, Color: Green, Position: Center-Right, Width: 47, Height: 251
+Object: bottle, Confidence: 0.77, Color: Green, Position: Center, Width: 62, Height: 200
+Object: chair, Confidence: 0.29, Color: Black, Position: Center-Right, Width: 218, Height: 199
+Object: dining table, Confidence: 0.36, Color: Green, Position: Bottom-Center, Width: 604, Height: 227
+Object: person, Confidence: 0.57, Color: Green, Position: Center-Right, Width: 49, Height: 253
+Object: bottle, Confidence: 0.70, Color: Green, Position: Center, Width: 61, Height: 200
+Object: dining table, Confidence: 0.33, Color: Other, Position: Bottom-Center, Width: 607, Height: 227
+Object: person, Confidence: 0.57, Color: Green, Position: Center-Right, Width: 52, Height: 253
+Object: bottle, Confidence: 0.69, Color: Green, Position: Center, Width: 62, Height: 200
+Object: dining table, Confidence: 0.33, Color: Black, Position: Bottom-Center, Width: 608, Height: 228
+Object: person, Confidence: 0.62, Color: Green, Position: Center-Right, Width: 56, Height: 259
+Object: bottle, Confidence: 0.73, Color: Green, Position: Center, Width: 62, Height: 199
+Object: dining table, Confidence: 0.33, Color: Other, Position: Bottom-Center, Width: 610, Height: 228
+Object: bottle, Confidence: 0.68, Color: Green, Position: Center, Width: 62, Height: 202
+Object: person, Confidence: 0.72, Color: Green, Position: Center-Right, Width: 58, Height: 268
+Object: dining table, Confidence: 0.32, Color: Other, Position: Bottom-Center, Width: 608, Height: 228
+Object: person, Confidence: 0.41, Color: Green, Position: Center-Right, Width: 29, Height: 213
+Object: bottle, Confidence: 0.81, Color: Green, Position: Center, Width: 63, Height: 200
+Object: suitcase, Confidence: 0.31, Color: Black, Position: Center-Right, Width: 215, Height: 197
+Object: dining table, Confidence: 0.34, Color: Green, Position: Bottom-Center, Width: 612, Height: 228
+Object: person, Confidence: 0.62, Color: Green, Position: Center-Right, Width: 43, Height: 223
+Object: bottle, Confidence: 0.76, Color: Green, Position: Center, Width: 61, Height: 200
+Object: chair, Confidence: 0.27, Color: Black, Position: Center-Right, Width: 233, Height: 205
+Object: person, Confidence: 0.30, Color: Green, Position: Center-Right, Width: 38, Height: 94
+Object: bottle, Confidence: 0.62, Color: Gray, Position: Center, Width: 63, Height: 200
+Object: chair, Confidence: 0.37, Color: Black, Position: Center-Right, Width: 212, Height: 315
+Object: bottle, Confidence: 0.70, Color: Gray, Position: Center, Width: 62, Height: 200
+Object: suitcase, Confidence: 0.39, Color: Black, Position: Bottom-Right, Width: 191, Height: 294
+Object: person, Confidence: 0.56, Color: Green, Position: Center-Right, Width: 24, Height: 90
+Object: bottle, Confidence: 0.62, Color: Gray, Position: Center, Width: 63, Height: 200
+Object: suitcase, Confidence: 0.32, Color: Black, Position: Bottom-Right, Width: 190, Height: 298
+Object: person, Confidence: 0.56, Color: Green, Position: Center-Right, Width: 25, Height: 89
+Object: bottle, Confidence: 0.67, Color: Gray, Position: Center, Width: 62, Height: 198
+Object: couch, Confidence: 0.41, Color: Black, Position: Center-Right, Width: 215, Height: 313
+Object: person, Confidence: 0.49, Color: Green, Position: Center-Right, Width: 17, Height: 52
+Object: bottle, Confidence: 0.62, Color: Gray, Position: Center, Width: 63, Height: 199
+Object: chair, Confidence: 0.30, Color: Black, Position: Center-Right, Width: 123, Height: 184
+Object: bottle, Confidence: 0.76, Color: White, Position: Center, Width: 61, Height: 200
+Object: bottle, Confidence: 0.71, Color: Other, Position: Center, Width: 62, Height: 200
+Object: bottle, Confidence: 0.60, Color: Other, Position: Top-Center, Width: 63, Height: 307
+Object: person, Confidence: 0.31, Color: Black, Position: Top-Right, Width: 207, Height: 83
+Object: bottle, Confidence: 0.72, Color: Gray, Position: Top-Center, Width: 69, Height: 222
+Object: suitcase, Confidence: 0.77, Color: Black, Position: Center-Right, Width: 229, Height: 333
+Object: suitcase, Confidence: 0.31, Color: Black, Position: Center-Right, Width: 227, Height: 342
+Object: bottle, Confidence: 0.81, Color: Gray, Position: Top-Center, Width: 68, Height: 226
+Object: bottle, Confidence: 0.77, Color: Other, Position: Top-Center, Width: 68, Height: 223
+Object: person, Confidence: 0.33, Color: Black, Position: Center-Right, Width: 244, Height: 393
+Object: bottle, Confidence: 0.76, Color: Gray, Position: Top-Center, Width: 68, Height: 224
+Object: dining table, Confidence: 0.45, Color: Other, Position: Bottom-Center, Width: 467, Height: 203
+Object: person, Confidence: 0.64, Color: Black, Position: Center-Right, Width: 46, Height: 142
+Object: bottle, Confidence: 0.72, Color: Green, Position: Center, Width: 60, Height: 192
+Object: dining table, Confidence: 0.33, Color: Other, Position: Bottom-Center, Width: 631, Height: 196
+Object: bottle, Confidence: 0.46, Color: Green, Position: Center, Width: 60, Height: 194
+Object: dining table, Confidence: 0.27, Color: Other, Position: Bottom-Center, Width: 611, Height: 211
+Object: bottle, Confidence: 0.58, Color: Green, Position: Center, Width: 59, Height: 191
+Object: dining table, Confidence: 0.33, Color: Other, Position: Bottom-Center, Width: 640, Height: 185
+Object: cup, Confidence: 0.53, Color: White, Position: Bottom-Center, Width: 97, Height: 126
+Object: bottle, Confidence: 0.66, Color: Green, Position: Center, Width: 58, Height: 137
+Object: dining table, Confidence: 0.35, Color: Other, Position: Bottom-Center, Width: 603, Height: 187
+Object: person, Confidence: 0.37, Color: Green, Position: Center-Right, Width: 299, Height: 264
+Object: bottle, Confidence: 0.82, Color: Green, Position: Center, Width: 61, Height: 191
+Object: cup, Confidence: 0.93, Color: White, Position: Bottom-Left, Width: 86, Height: 118
+Object: dining table, Confidence: 0.31, Color: Other, Position: Bottom-Center, Width: 623, Height: 212
+Object: person, Confidence: 0.50, Color: Green, Position: Center-Right, Width: 316, Height: 284
+Object: bottle, Confidence: 0.74, Color: Green, Position: Center, Width: 60, Height: 189
+Object: cup, Confidence: 0.89, Color: White, Position: Bottom-Left, Width: 87, Height: 119
+Object: chair, Confidence: 0.29, Color: Other, Position: Center-Left, Width: 96, Height: 56
+Object: dining table, Confidence: 0.38, Color: Green, Position: Bottom-Center, Width: 621, Height: 185
+Object: person, Confidence: 0.47, Color: Green, Position: Center-Right, Width: 64, Height: 208
+Object: bottle, Confidence: 0.69, Color: Green, Position: Center, Width: 60, Height: 193
+Object: cup, Confidence: 0.91, Color: Green, Position: Bottom-Center, Width: 86, Height: 120
+Object: chair, Confidence: 0.46, Color: Other, Position: Center-Left, Width: 96, Height: 56
+Object: dining table, Confidence: 0.51, Color: Green, Position: Bottom-Center, Width: 605, Height: 203
+Object: bottle, Confidence: 0.74, Color: Green, Position: Center, Width: 61, Height: 191
+Object: cup, Confidence: 0.90, Color: Green, Position: Bottom-Center, Width: 86, Height: 122
+Object: chair, Confidence: 0.32, Color: Other, Position: Center-Left, Width: 96, Height: 56
+Object: dining table, Confidence: 0.50, Color: Green, Position: Bottom-Center, Width: 610, Height: 203
+Object: bottle, Confidence: 0.79, Color: Green, Position: Center, Width: 61, Height: 193
+Object: cup, Confidence: 0.89, Color: Green, Position: Bottom-Center, Width: 87, Height: 122
+Object: chair, Confidence: 0.42, Color: Other, Position: Center-Left, Width: 96, Height: 56
+Object: dining table, Confidence: 0.45, Color: Black, Position: Bottom-Center, Width: 599, Height: 203
+Object: bottle, Confidence: 0.77, Color: Green, Position: Center, Width: 61, Height: 193
+Object: cup, Confidence: 0.90, Color: Green, Position: Bottom-Center, Width: 87, Height: 122
+Object: chair, Confidence: 0.37, Color: Gray, Position: Center-Left, Width: 95, Height: 56
+Object: dining table, Confidence: 0.41, Color: Black, Position: Bottom-Center, Width: 597, Height: 203
+Object: bottle, Confidence: 0.76, Color: Green, Position: Center, Width: 61, Height: 192
+Object: cup, Confidence: 0.90, Color: Green, Position: Bottom-Center, Width: 86, Height: 122
+Object: chair, Confidence: 0.37, Color: Other, Position: Center-Left, Width: 94, Height: 56
+Object: dining table, Confidence: 0.44, Color: Black, Position: Bottom-Center, Width: 600, Height: 203
+Object: bottle, Confidence: 0.73, Color: Green, Position: Center, Width: 61, Height: 191
+Object: cup, Confidence: 0.90, Color: Green, Position: Bottom-Center, Width: 86, Height: 122
+Object: suitcase, Confidence: 0.30, Color: Black, Position: Center-Right, Width: 244, Height: 232
+Object: person, Confidence: 0.33, Color: Green, Position: Center-Right, Width: 73, Height: 318
+Object: dining table, Confidence: 0.43, Color: Green, Position: Bottom-Center, Width: 608, Height: 200
+Object: bottle, Confidence: 0.48, Color: Green, Position: Center, Width: 60, Height: 177
+Object: cup, Confidence: 0.90, Color: Green, Position: Bottom-Center, Width: 86, Height: 122
+Object: chair, Confidence: 0.33, Color: Other, Position: Center-Left, Width: 96, Height: 56
+Object: person, Confidence: 0.35, Color: Gray, Position: Top-Right, Width: 42, Height: 83
+Object: dining table, Confidence: 0.44, Color: Green, Position: Bottom-Center, Width: 596, Height: 203
+Object: person, Confidence: 0.56, Color: Green, Position: Center-Right, Width: 192, Height: 283
+Object: person, Confidence: 0.66, Color: Green, Position: Top-Right, Width: 26, Height: 59
+Object: bottle, Confidence: 0.73, Color: Green, Position: Center, Width: 61, Height: 192
+Object: cup, Confidence: 0.89, Color: Green, Position: Bottom-Center, Width: 87, Height: 122
+Object: suitcase, Confidence: 0.35, Color: Black, Position: Bottom-Right, Width: 344, Height: 223
+Object: person, Confidence: 0.71, Color: Green, Position: Top-Right, Width: 99, Height: 144
+Object: bottle, Confidence: 0.80, Color: Green, Position: Center, Width: 51, Height: 143
+Object: cup, Confidence: 0.80, Color: Green, Position: Bottom-Center, Width: 81, Height: 122
+Object: cup, Confidence: 0.74, Color: Black, Position: Bottom-Center, Width: 78, Height: 117
+Object: person, Confidence: 0.79, Color: Black, Position: Top-Right, Width: 84, Height: 120
+Object: cup, Confidence: 0.74, Color: Black, Position: Bottom-Center, Width: 79, Height: 114
+Object: person, Confidence: 0.82, Color: Black, Position: Top-Right, Width: 83, Height: 121
+Object: couch, Confidence: 0.30, Color: Black, Position: Center-Right, Width: 385, Height: 250
+Object: person, Confidence: 0.71, Color: Green, Position: Top-Right, Width: 82, Height: 128
+Object: cup, Confidence: 0.80, Color: Green, Position: Bottom-Center, Width: 83, Height: 121
+Object: chair, Confidence: 0.36, Color: Other, Position: Center-Left, Width: 96, Height: 56
+Object: dining table, Confidence: 0.45, Color: Green, Position: Bottom-Center, Width: 604, Height: 200
+Object: bottle, Confidence: 0.80, Color: Green, Position: Center, Width: 61, Height: 193
+Object: cup, Confidence: 0.90, Color: Green, Position: Bottom-Center, Width: 86, Height: 121
+Object: dining table, Confidence: 0.29, Color: Other, Position: Bottom-Center, Width: 600, Height: 184
+Object: bottle, Confidence: 0.80, Color: Green, Position: Center, Width: 61, Height: 194
+Object: cup, Confidence: 0.92, Color: Green, Position: Bottom-Center, Width: 86, Height: 120
+Real-Time Object Detection Summary
+
+Object: cup, Confidence: 0.58, Color: White, Position: Center, Width: 66, Height: 83
+Object: bottle, Confidence: 0.87, Color: White, Position: Center, Width: 68, Height: 213
+Object: dining table, Confidence: 0.71, Color: Other, Position: Bottom-Center, Width: 615, Height: 263
+Object: bottle, Confidence: 0.88, Color: Green, Position: Center, Width: 68, Height: 208
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 66, Height: 83
+Object: dining table, Confidence: 0.64, Color: Gray, Position: Bottom-Center, Width: 615, Height: 264
+Object: bottle, Confidence: 0.85, Color: Green, Position: Center, Width: 68, Height: 205
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 65, Height: 83
+Object: train, Confidence: 0.26, Color: Gray, Position: Bottom-Right, Width: 166, Height: 54
+Object: dining table, Confidence: 0.69, Color: Green, Position: Bottom-Center, Width: 598, Height: 263
+Object: bottle, Confidence: 0.88, Color: Green, Position: Center, Width: 68, Height: 206
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 66, Height: 82
+Object: person, Confidence: 0.26, Color: Gray, Position: Bottom-Right, Width: 177, Height: 63
+Object: dining table, Confidence: 0.61, Color: Green, Position: Bottom-Center, Width: 634, Height: 269
+Object: bottle, Confidence: 0.89, Color: Green, Position: Center, Width: 68, Height: 206
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 66, Height: 83
+Object: person, Confidence: 0.39, Color: Other, Position: Bottom-Right, Width: 255, Height: 139
+Object: dining table, Confidence: 0.72, Color: Green, Position: Bottom-Center, Width: 630, Height: 268
+Object: bottle, Confidence: 0.88, Color: Green, Position: Center, Width: 68, Height: 206
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 65, Height: 83
+Object: person, Confidence: 0.30, Color: Other, Position: Bottom-Right, Width: 259, Height: 136
+Object: dining table, Confidence: 0.70, Color: Green, Position: Bottom-Center, Width: 628, Height: 263
+Object: bottle, Confidence: 0.88, Color: Green, Position: Center, Width: 68, Height: 206
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 65, Height: 83
+Object: dining table, Confidence: 0.65, Color: Gray, Position: Bottom-Center, Width: 616, Height: 273
+Object: person, Confidence: 0.68, Color: Green, Position: Bottom-Right, Width: 382, Height: 143
+Object: bottle, Confidence: 0.85, Color: Green, Position: Center, Width: 68, Height: 206
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 65, Height: 83
+Object: person, Confidence: 0.57, Color: Other, Position: Bottom-Right, Width: 394, Height: 137
+Object: dining table, Confidence: 0.61, Color: Green, Position: Bottom-Center, Width: 616, Height: 273
+Object: bottle, Confidence: 0.87, Color: Green, Position: Center, Width: 69, Height: 205
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 65, Height: 83
+Object: dining table, Confidence: 0.60, Color: Other, Position: Bottom-Center, Width: 616, Height: 274
+Object: person, Confidence: 0.72, Color: Green, Position: Bottom-Right, Width: 353, Height: 134
+Object: bottle, Confidence: 0.86, Color: Green, Position: Center, Width: 68, Height: 206
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 65, Height: 82
+Object: dining table, Confidence: 0.67, Color: Other, Position: Bottom-Center, Width: 612, Height: 271
+Object: person, Confidence: 0.69, Color: Green, Position: Bottom-Right, Width: 336, Height: 132
+Object: bottle, Confidence: 0.87, Color: Green, Position: Center, Width: 69, Height: 206
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 65, Height: 83
+Object: dining table, Confidence: 0.74, Color: Other, Position: Bottom-Center, Width: 606, Height: 269
+Object: bottle, Confidence: 0.86, Color: Green, Position: Center, Width: 68, Height: 207
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 65, Height: 83
+Object: person, Confidence: 0.60, Color: Other, Position: Bottom-Right, Width: 331, Height: 93
+Object: dining table, Confidence: 0.66, Color: Green, Position: Bottom-Center, Width: 608, Height: 273
+Object: bottle, Confidence: 0.88, Color: Green, Position: Center, Width: 68, Height: 205
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 66, Height: 82
+Object: person, Confidence: 0.33, Color: Other, Position: Bottom-Right, Width: 319, Height: 124
+Object: dining table, Confidence: 0.65, Color: Green, Position: Bottom-Center, Width: 612, Height: 272
+Object: bottle, Confidence: 0.86, Color: Green, Position: Center, Width: 68, Height: 206
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 65, Height: 83
+Object: dining table, Confidence: 0.72, Color: Other, Position: Bottom-Center, Width: 630, Height: 265
+Object: bottle, Confidence: 0.88, Color: Green, Position: Center, Width: 68, Height: 207
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 66, Height: 83
+Object: person, Confidence: 0.39, Color: Black, Position: Bottom-Right, Width: 120, Height: 166
+Object: dining table, Confidence: 0.69, Color: Green, Position: Bottom-Center, Width: 633, Height: 268
+Object: bottle, Confidence: 0.87, Color: Green, Position: Center, Width: 68, Height: 206
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 65, Height: 83
+Object: person, Confidence: 0.36, Color: Black, Position: Bottom-Right, Width: 120, Height: 160
+Object: dining table, Confidence: 0.63, Color: Green, Position: Bottom-Center, Width: 624, Height: 261
+Object: bottle, Confidence: 0.84, Color: Green, Position: Center, Width: 69, Height: 206
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 66, Height: 83
+Object: dining table, Confidence: 0.66, Color: Other, Position: Bottom-Center, Width: 631, Height: 265
+Object: bottle, Confidence: 0.84, Color: Green, Position: Center, Width: 68, Height: 207
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 66, Height: 83
+Object: person, Confidence: 0.37, Color: Black, Position: Bottom-Right, Width: 120, Height: 168
+Object: dining table, Confidence: 0.64, Color: Green, Position: Bottom-Center, Width: 631, Height: 264
+Object: bottle, Confidence: 0.84, Color: Green, Position: Center, Width: 69, Height: 207
+Object: cup, Confidence: 0.93, Color: Green, Position: Center, Width: 66, Height: 83
+Object: person, Confidence: 0.45, Color: Black, Position: Bottom-Right, Width: 119, Height: 168
+Object: dining table, Confidence: 0.66, Color: Green, Position: Bottom-Center, Width: 630, Height: 267
+Object: bottle, Confidence: 0.88, Color: Green, Position: Center, Width: 68, Height: 206
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 66, Height: 83
+Object: person, Confidence: 0.45, Color: Black, Position: Bottom-Right, Width: 120, Height: 162
+Object: dining table, Confidence: 0.67, Color: Green, Position: Bottom-Center, Width: 632, Height: 266
+Object: bottle, Confidence: 0.88, Color: Green, Position: Center, Width: 68, Height: 206
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 66, Height: 84
+Object: book, Confidence: 0.32, Color: White, Position: Center-Right, Width: 88, Height: 29
+Object: person, Confidence: 0.37, Color: Other, Position: Bottom-Center, Width: 387, Height: 137
+Object: dining table, Confidence: 0.49, Color: Green, Position: Bottom-Center, Width: 593, Height: 267
+Object: bottle, Confidence: 0.85, Color: Green, Position: Center, Width: 69, Height: 205
+Object: cup, Confidence: 0.94, Color: Green, Position: Center, Width: 65, Height: 82
+Object: tie, Confidence: 0.31, Color: Black, Position: Center, Width: 321, Height: 465
+Real-Time Object Detection Summary
+
+Object: person, Confidence: 0.28, Color: Black, Position: Top-Right, Width: 224, Height: 191
+Object: laptop, Confidence: 0.59, Color: Black, Position: Top-Left, Width: 259, Height: 191
+Object: laptop, Confidence: 0.59, Color: Green, Position: Top-Center, Width: 183, Height: 168
+Object: laptop, Confidence: 0.53, Color: Gray, Position: Top-Left, Width: 226, Height: 191
+Object: laptop, Confidence: 0.55, Color: Gray, Position: Top-Center, Width: 188, Height: 124
+Object: person, Confidence: 0.73, Color: Green, Position: Top-Right, Width: 221, Height: 208
+Object: laptop, Confidence: 0.53, Color: Gray, Position: Top-Center, Width: 188, Height: 120
+Object: laptop, Confidence: 0.60, Color: Green, Position: Top-Left, Width: 269, Height: 191
+Object: person, Confidence: 0.68, Color: Green, Position: Top-Right, Width: 222, Height: 210
+Object: person, Confidence: 0.32, Color: Black, Position: Top-Right, Width: 224, Height: 199
+Object: laptop, Confidence: 0.58, Color: Gray, Position: Top-Left, Width: 269, Height: 192
+Object: laptop, Confidence: 0.65, Color: Gray, Position: Top-Center, Width: 222, Height: 125
+Object: person, Confidence: 0.59, Color: Black, Position: Top-Right, Width: 226, Height: 170
+Object: laptop, Confidence: 0.62, Color: Gray, Position: Top-Left, Width: 266, Height: 192
+Object: laptop, Confidence: 0.74, Color: Gray, Position: Top-Center, Width: 215, Height: 123
+Object: laptop, Confidence: 0.55, Color: Gray, Position: Top-Left, Width: 262, Height: 191
+Object: laptop, Confidence: 0.73, Color: Gray, Position: Top-Center, Width: 221, Height: 124
+Object: laptop, Confidence: 0.31, Color: Gray, Position: Top-Left, Width: 279, Height: 188
+Object: teddy bear, Confidence: 0.39, Color: Black, Position: Top-Right, Width: 201, Height: 232
+Object: laptop, Confidence: 0.41, Color: Green, Position: Top-Center, Width: 241, Height: 168
+Object: sports ball, Confidence: 0.35, Color: Purple, Position: Center, Width: 76, Height: 76
+Object: laptop, Confidence: 0.65, Color: Gray, Position: Top-Left, Width: 272, Height: 190
+Object: laptop, Confidence: 0.67, Color: Gray, Position: Top-Center, Width: 220, Height: 157
+Object: person, Confidence: 0.53, Color: Black, Position: Center-Right, Width: 239, Height: 362
+Object: laptop, Confidence: 0.45, Color: Gray, Position: Center-Left, Width: 267, Height: 178
+Object: person, Confidence: 0.68, Color: Black, Position: Center-Right, Width: 235, Height: 310
+Object: laptop, Confidence: 0.80, Color: Green, Position: Center, Width: 183, Height: 161
+Object: laptop, Confidence: 0.30, Color: Gray, Position: Center-Left, Width: 279, Height: 180
+Object: person, Confidence: 0.65, Color: Black, Position: Center-Right, Width: 235, Height: 350
+Object: laptop, Confidence: 0.82, Color: Green, Position: Center, Width: 190, Height: 160
+Object: laptop, Confidence: 0.47, Color: Gray, Position: Center-Left, Width: 207, Height: 179
+Object: person, Confidence: 0.61, Color: Black, Position: Center-Right, Width: 269, Height: 362
+Object: laptop, Confidence: 0.73, Color: Gray, Position: Center, Width: 173, Height: 161
+Object: donut, Confidence: 0.28, Color: Black, Position: Top-Right, Width: 56, Height: 55
+Object: laptop, Confidence: 0.31, Color: Gray, Position: Center-Left, Width: 214, Height: 179
+Object: person, Confidence: 0.72, Color: Green, Position: Center-Right, Width: 305, Height: 343
+Object: laptop, Confidence: 0.74, Color: Green, Position: Center, Width: 152, Height: 158
+Object: donut, Confidence: 0.27, Color: Black, Position: Top-Right, Width: 42, Height: 48
+Object: laptop, Confidence: 0.38, Color: Gray, Position: Center-Left, Width: 211, Height: 179
+Object: person, Confidence: 0.70, Color: Green, Position: Center-Right, Width: 305, Height: 344
+Object: laptop, Confidence: 0.82, Color: Green, Position: Center, Width: 148, Height: 159
+Object: keyboard, Confidence: 0.25, Color: Other, Position: Center, Width: 65, Height: 49
+Object: bottle, Confidence: 0.27, Color: Gray, Position: Top-Right, Width: 30, Height: 51
+Object: laptop, Confidence: 0.41, Color: Gray, Position: Center-Left, Width: 212, Height: 180
+Object: person, Confidence: 0.52, Color: Green, Position: Center-Right, Width: 236, Height: 325
+Object: laptop, Confidence: 0.74, Color: Green, Position: Center, Width: 169, Height: 158
+Object: sports ball, Confidence: 0.31, Color: Purple, Position: Bottom-Center, Width: 71, Height: 73
+Object: laptop, Confidence: 0.48, Color: Gray, Position: Center-Left, Width: 221, Height: 178
+Object: person, Confidence: 0.68, Color: Green, Position: Top-Right, Width: 269, Height: 308
+Object: laptop, Confidence: 0.69, Color: Gray, Position: Center, Width: 166, Height: 126
+Object: sports ball, Confidence: 0.34, Color: Purple, Position: Bottom-Center, Width: 73, Height: 73
+Object: bottle, Confidence: 0.42, Color: Gray, Position: Top-Center, Width: 25, Height: 57
+Object: person, Confidence: 0.44, Color: Green, Position: Top-Right, Width: 259, Height: 225
+Object: laptop, Confidence: 0.61, Color: Gray, Position: Center-Left, Width: 231, Height: 177
+Object: laptop, Confidence: 0.70, Color: Green, Position: Center, Width: 160, Height: 118
+Object: cup, Confidence: 0.30, Color: White, Position: Center, Width: 33, Height: 47
+Object: bottle, Confidence: 0.32, Color: Green, Position: Top-Center, Width: 26, Height: 57
+Object: person, Confidence: 0.55, Color: Green, Position: Top-Right, Width: 257, Height: 256
+Object: laptop, Confidence: 0.55, Color: Green, Position: Center, Width: 157, Height: 126
+Object: laptop, Confidence: 0.69, Color: Green, Position: Center-Left, Width: 275, Height: 181
+Object: bottle, Confidence: 0.45, Color: Gray, Position: Top-Center, Width: 25, Height: 59
+Object: laptop, Confidence: 0.61, Color: Gray, Position: Center-Left, Width: 220, Height: 176
+Object: person, Confidence: 0.68, Color: Green, Position: Center-Right, Width: 269, Height: 337
+Object: laptop, Confidence: 0.69, Color: Green, Position: Center, Width: 174, Height: 126
+Object: laptop, Confidence: 0.38, Color: White, Position: Top-Left, Width: 39, Height: 177
+Object: person, Confidence: 0.63, Color: Black, Position: Top-Right, Width: 255, Height: 293
+Object: laptop, Confidence: 0.69, Color: Green, Position: Center, Width: 156, Height: 103
+Object: laptop, Confidence: 0.89, Color: Green, Position: Center-Left, Width: 250, Height: 166
+Object: laptop, Confidence: 0.35, Color: White, Position: Top-Left, Width: 41, Height: 171
+Object: person, Confidence: 0.71, Color: Black, Position: Top-Right, Width: 256, Height: 289
+Object: laptop, Confidence: 0.72, Color: Green, Position: Center, Width: 146, Height: 99
+Object: laptop, Confidence: 0.89, Color: Green, Position: Center-Left, Width: 248, Height: 165
+Object: bottle, Confidence: 0.27, Color: Gray, Position: Top-Center, Width: 26, Height: 59
+Object: laptop, Confidence: 0.33, Color: White, Position: Top-Left, Width: 41, Height: 175
+Object: person, Confidence: 0.72, Color: Green, Position: Top-Right, Width: 254, Height: 291
+Object: laptop, Confidence: 0.74, Color: Green, Position: Center, Width: 151, Height: 103
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 251, Height: 165
+Object: laptop, Confidence: 0.29, Color: White, Position: Top-Left, Width: 41, Height: 172
+Object: bottle, Confidence: 0.31, Color: Gray, Position: Top-Center, Width: 25, Height: 57
+Object: person, Confidence: 0.69, Color: Green, Position: Top-Right, Width: 272, Height: 284
+Object: laptop, Confidence: 0.71, Color: Green, Position: Center, Width: 153, Height: 100
+Object: laptop, Confidence: 0.90, Color: Green, Position: Center-Left, Width: 249, Height: 166
+Object: person, Confidence: 0.28, Color: Black, Position: Top-Right, Width: 234, Height: 297
+Object: laptop, Confidence: 0.34, Color: White, Position: Top-Left, Width: 43, Height: 182
+Object: teddy bear, Confidence: 0.35, Color: Green, Position: Center, Width: 104, Height: 107
+Object: laptop, Confidence: 0.80, Color: Green, Position: Center, Width: 170, Height: 100
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 245, Height: 165
+Object: laptop, Confidence: 0.32, Color: White, Position: Top-Left, Width: 41, Height: 172
+Object: person, Confidence: 0.52, Color: Black, Position: Center-Right, Width: 161, Height: 344
+Object: laptop, Confidence: 0.70, Color: Gray, Position: Center, Width: 218, Height: 122
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 249, Height: 165
+Object: keyboard, Confidence: 0.29, Color: Other, Position: Center-Left, Width: 97, Height: 45
+Object: person, Confidence: 0.30, Color: Black, Position: Center-Right, Width: 162, Height: 341
+Object: teddy bear, Confidence: 0.32, Color: Black, Position: Center, Width: 108, Height: 107
+Object: laptop, Confidence: 0.38, Color: Black, Position: Center-Left, Width: 42, Height: 132
+Object: laptop, Confidence: 0.72, Color: Green, Position: Center, Width: 218, Height: 119
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 256, Height: 164
+Object: bottle, Confidence: 0.26, Color: Gray, Position: Top-Center, Width: 28, Height: 58
+Object: laptop, Confidence: 0.31, Color: White, Position: Top-Left, Width: 41, Height: 138
+Object: laptop, Confidence: 0.73, Color: Gray, Position: Center, Width: 219, Height: 113
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 252, Height: 165
+Object: mouse, Confidence: 0.27, Color: Other, Position: Center-Left, Width: 29, Height: 33
+Object: teddy bear, Confidence: 0.27, Color: Green, Position: Center, Width: 105, Height: 106
+Object: person, Confidence: 0.27, Color: Green, Position: Center-Right, Width: 163, Height: 348
+Object: keyboard, Confidence: 0.29, Color: Green, Position: Center-Left, Width: 79, Height: 45
+Object: laptop, Confidence: 0.33, Color: White, Position: Top-Left, Width: 42, Height: 175
+Object: laptop, Confidence: 0.73, Color: Green, Position: Center, Width: 214, Height: 107
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 250, Height: 165
+Object: teddy bear, Confidence: 0.28, Color: Other, Position: Center, Width: 103, Height: 107
+Object: laptop, Confidence: 0.32, Color: White, Position: Top-Left, Width: 42, Height: 183
+Object: mouse, Confidence: 0.32, Color: Other, Position: Center-Left, Width: 29, Height: 32
+Object: person, Confidence: 0.43, Color: Green, Position: Center-Right, Width: 163, Height: 345
+Object: laptop, Confidence: 0.72, Color: Green, Position: Center, Width: 218, Height: 115
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 249, Height: 166
+Object: keyboard, Confidence: 0.30, Color: Black, Position: Center-Left, Width: 97, Height: 45
+Object: laptop, Confidence: 0.34, Color: White, Position: Top-Left, Width: 41, Height: 157
+Object: teddy bear, Confidence: 0.35, Color: Black, Position: Center, Width: 106, Height: 107
+Object: laptop, Confidence: 0.70, Color: Green, Position: Center, Width: 222, Height: 126
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 255, Height: 164
+Object: laptop, Confidence: 0.30, Color: White, Position: Top-Left, Width: 43, Height: 182
+Object: laptop, Confidence: 0.73, Color: Gray, Position: Center, Width: 225, Height: 131
+Object: laptop, Confidence: 0.90, Color: Green, Position: Center-Left, Width: 253, Height: 165
+Object: teddy bear, Confidence: 0.28, Color: Gray, Position: Center, Width: 104, Height: 107
+Object: laptop, Confidence: 0.33, Color: Gray, Position: Top-Left, Width: 43, Height: 184
+Object: laptop, Confidence: 0.75, Color: Green, Position: Center, Width: 214, Height: 105
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 249, Height: 165
+Object: teddy bear, Confidence: 0.25, Color: Black, Position: Center, Width: 104, Height: 107
+Object: keyboard, Confidence: 0.25, Color: Other, Position: Center-Left, Width: 93, Height: 44
+Object: laptop, Confidence: 0.40, Color: Black, Position: Center-Left, Width: 41, Height: 126
+Object: laptop, Confidence: 0.74, Color: Green, Position: Center, Width: 222, Height: 121
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 254, Height: 164
+Object: person, Confidence: 0.28, Color: Black, Position: Center-Right, Width: 164, Height: 341
+Object: keyboard, Confidence: 0.29, Color: Black, Position: Center-Left, Width: 91, Height: 44
+Object: laptop, Confidence: 0.37, Color: White, Position: Top-Left, Width: 42, Height: 170
+Object: laptop, Confidence: 0.72, Color: Green, Position: Center, Width: 221, Height: 115
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 255, Height: 164
+Object: keyboard, Confidence: 0.25, Color: Black, Position: Center-Left, Width: 92, Height: 45
+Object: teddy bear, Confidence: 0.37, Color: Black, Position: Center, Width: 102, Height: 106
+Object: laptop, Confidence: 0.40, Color: Other, Position: Center-Left, Width: 41, Height: 136
+Object: laptop, Confidence: 0.73, Color: Green, Position: Center, Width: 225, Height: 128
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 252, Height: 165
+Object: teddy bear, Confidence: 0.28, Color: Black, Position: Center, Width: 105, Height: 106
+Object: laptop, Confidence: 0.53, Color: Other, Position: Center-Left, Width: 42, Height: 124
+Object: laptop, Confidence: 0.71, Color: Green, Position: Center, Width: 223, Height: 125
+Object: laptop, Confidence: 0.90, Color: Green, Position: Center-Left, Width: 255, Height: 165
+Object: person, Confidence: 0.25, Color: Black, Position: Center-Right, Width: 164, Height: 346
+Object: keyboard, Confidence: 0.30, Color: Other, Position: Center-Left, Width: 93, Height: 44
+Object: laptop, Confidence: 0.50, Color: Black, Position: Center-Left, Width: 42, Height: 126
+Object: laptop, Confidence: 0.73, Color: Green, Position: Center, Width: 217, Height: 109
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 253, Height: 164
+Object: keyboard, Confidence: 0.27, Color: Other, Position: Center-Left, Width: 79, Height: 45
+Object: person, Confidence: 0.33, Color: Gray, Position: Center-Right, Width: 164, Height: 343
+Object: laptop, Confidence: 0.47, Color: Other, Position: Center-Left, Width: 41, Height: 126
+Object: laptop, Confidence: 0.72, Color: Green, Position: Center, Width: 225, Height: 130
+Object: laptop, Confidence: 0.89, Color: Green, Position: Center-Left, Width: 257, Height: 166
+Object: keyboard, Confidence: 0.31, Color: Other, Position: Center-Left, Width: 90, Height: 44
+Object: teddy bear, Confidence: 0.35, Color: Black, Position: Center, Width: 103, Height: 106
+Object: laptop, Confidence: 0.60, Color: Black, Position: Center-Left, Width: 42, Height: 128
+Object: laptop, Confidence: 0.71, Color: Green, Position: Center, Width: 215, Height: 112
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 253, Height: 165
+Object: keyboard, Confidence: 0.29, Color: Other, Position: Center-Left, Width: 79, Height: 45
+Object: teddy bear, Confidence: 0.36, Color: Black, Position: Center, Width: 105, Height: 106
+Object: person, Confidence: 0.39, Color: Green, Position: Center-Right, Width: 166, Height: 338
+Object: laptop, Confidence: 0.57, Color: Other, Position: Center-Left, Width: 42, Height: 125
+Object: laptop, Confidence: 0.71, Color: Green, Position: Center, Width: 219, Height: 116
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 252, Height: 165
+Object: laptop, Confidence: 0.38, Color: Gray, Position: Center, Width: 198, Height: 145
+Object: person, Confidence: 0.50, Color: Green, Position: Center-Right, Width: 360, Height: 345
+Object: laptop, Confidence: 0.57, Color: Black, Position: Center-Left, Width: 45, Height: 128
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 248, Height: 164
+Object: laptop, Confidence: 0.56, Color: Gray, Position: Top-Center, Width: 192, Height: 149
+Object: person, Confidence: 0.71, Color: Green, Position: Center-Right, Width: 355, Height: 338
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 251, Height: 164
+Object: laptop, Confidence: 0.39, Color: Gray, Position: Center, Width: 189, Height: 146
+Object: person, Confidence: 0.80, Color: Green, Position: Center-Right, Width: 350, Height: 339
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 255, Height: 163
+Object: laptop, Confidence: 0.29, Color: White, Position: Center, Width: 167, Height: 148
+Object: person, Confidence: 0.79, Color: Green, Position: Center-Right, Width: 354, Height: 343
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 255, Height: 162
+Object: laptop, Confidence: 0.36, Color: Gray, Position: Top-Center, Width: 192, Height: 151
+Object: person, Confidence: 0.81, Color: Green, Position: Center-Right, Width: 352, Height: 339
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 254, Height: 163
+Object: laptop, Confidence: 0.33, Color: Gray, Position: Center, Width: 161, Height: 146
+Object: person, Confidence: 0.83, Color: Green, Position: Center-Right, Width: 352, Height: 344
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 250, Height: 164
+Object: cell phone, Confidence: 0.26, Color: Gray, Position: Top-Center, Width: 34, Height: 32
+Object: laptop, Confidence: 0.38, Color: Green, Position: Top-Center, Width: 197, Height: 151
+Object: person, Confidence: 0.85, Color: Green, Position: Center-Right, Width: 354, Height: 342
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 255, Height: 162
+Object: teddy bear, Confidence: 0.25, Color: Black, Position: Center, Width: 106, Height: 105
+Object: laptop, Confidence: 0.26, Color: Other, Position: Center-Left, Width: 40, Height: 130
+Object: laptop, Confidence: 0.41, Color: Green, Position: Center, Width: 157, Height: 147
+Object: person, Confidence: 0.84, Color: Green, Position: Center-Right, Width: 353, Height: 343
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 252, Height: 164
+Object: person, Confidence: 0.25, Color: White, Position: Center-Left, Width: 37, Height: 70
+Object: laptop, Confidence: 0.32, Color: Green, Position: Center-Left, Width: 41, Height: 127
+Object: laptop, Confidence: 0.36, Color: Green, Position: Center, Width: 163, Height: 148
+Object: person, Confidence: 0.82, Color: Green, Position: Center-Right, Width: 352, Height: 343
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 252, Height: 164
+Object: laptop, Confidence: 0.33, Color: Gray, Position: Center, Width: 185, Height: 132
+Object: person, Confidence: 0.35, Color: Gray, Position: Center-Left, Width: 36, Height: 73
+Object: person, Confidence: 0.86, Color: Green, Position: Center-Right, Width: 351, Height: 344
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 252, Height: 162
+Object: cell phone, Confidence: 0.26, Color: Black, Position: Top-Center, Width: 33, Height: 32
+Object: laptop, Confidence: 0.34, Color: Green, Position: Center, Width: 193, Height: 145
+Object: person, Confidence: 0.86, Color: Green, Position: Center-Right, Width: 352, Height: 341
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 255, Height: 162
+Object: laptop, Confidence: 0.33, Color: Gray, Position: Center, Width: 163, Height: 148
+Object: person, Confidence: 0.37, Color: Gray, Position: Center-Left, Width: 36, Height: 70
+Object: person, Confidence: 0.84, Color: Green, Position: Center-Right, Width: 354, Height: 341
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 252, Height: 163
+Object: laptop, Confidence: 0.39, Color: Gray, Position: Center, Width: 190, Height: 151
+Object: person, Confidence: 0.51, Color: Gray, Position: Center-Left, Width: 36, Height: 70
+Object: person, Confidence: 0.80, Color: Green, Position: Center-Right, Width: 351, Height: 337
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 254, Height: 162
+Object: laptop, Confidence: 0.29, Color: Gray, Position: Center, Width: 177, Height: 133
+Object: person, Confidence: 0.82, Color: Green, Position: Center-Right, Width: 352, Height: 341
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 254, Height: 162
+Object: laptop, Confidence: 0.37, Color: Gray, Position: Center, Width: 193, Height: 150
+Object: person, Confidence: 0.46, Color: Gray, Position: Center-Left, Width: 36, Height: 70
+Object: person, Confidence: 0.85, Color: Green, Position: Center-Right, Width: 353, Height: 339
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 253, Height: 163
+Object: person, Confidence: 0.31, Color: Gray, Position: Center-Left, Width: 36, Height: 68
+Object: laptop, Confidence: 0.37, Color: Green, Position: Center, Width: 189, Height: 151
+Object: person, Confidence: 0.85, Color: Green, Position: Center-Right, Width: 352, Height: 343
+Object: laptop, Confidence: 0.91, Color: Green, Position: Center-Left, Width: 256, Height: 163
+Object: person, Confidence: 0.83, Color: Gray, Position: Center-Right, Width: 354, Height: 340
+Object: laptop, Confidence: 0.92, Color: Gray, Position: Center-Left, Width: 258, Height: 162
+Object: mouse, Confidence: 0.36, Color: Gray, Position: Center-Left, Width: 33, Height: 30
+Object: laptop, Confidence: 0.37, Color: Green, Position: Top-Center, Width: 196, Height: 150
+Object: person, Confidence: 0.79, Color: Green, Position: Center-Right, Width: 356, Height: 336
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 256, Height: 162
+Object: laptop, Confidence: 0.29, Color: Gray, Position: Top-Center, Width: 194, Height: 150
+Object: mouse, Confidence: 0.34, Color: Gray, Position: Center-Left, Width: 35, Height: 32
+Object: person, Confidence: 0.75, Color: Green, Position: Center-Right, Width: 357, Height: 335
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 254, Height: 163
+Object: mouse, Confidence: 0.32, Color: Gray, Position: Center-Left, Width: 36, Height: 28
+Object: laptop, Confidence: 0.38, Color: Green, Position: Center, Width: 195, Height: 148
+Object: person, Confidence: 0.83, Color: Green, Position: Center-Right, Width: 351, Height: 340
+Object: laptop, Confidence: 0.92, Color: Green, Position: Center-Left, Width: 254, Height: 163
+Real-Time Object Detection Summary
+
+Object: cat, Confidence: 0.26, Color: Black, Position: Center-Right, Width: 162, Height: 132
+Object: keyboard, Confidence: 0.27, Color: Other, Position: Center-Left, Width: 110, Height: 55
+Object: cup, Confidence: 0.53, Color: Black, Position: Center-Left, Width: 37, Height: 32
+Object: bottle, Confidence: 0.78, Color: Gray, Position: Top-Center, Width: 31, Height: 116
+Object: laptop, Confidence: 0.84, Color: Green, Position: Top-Left, Width: 232, Height: 193
+Object: teddy bear, Confidence: 0.26, Color: Black, Position: Center-Right, Width: 161, Height: 148
+Object: cup, Confidence: 0.45, Color: Gray, Position: Center-Left, Width: 35, Height: 31
+Object: bottle, Confidence: 0.82, Color: Gray, Position: Top-Center, Width: 33, Height: 116
+Object: laptop, Confidence: 0.89, Color: Green, Position: Top-Left, Width: 218, Height: 191
+Object: teddy bear, Confidence: 0.41, Color: Black, Position: Center-Right, Width: 163, Height: 146
+Object: cup, Confidence: 0.61, Color: White, Position: Center-Left, Width: 36, Height: 31
+Object: bottle, Confidence: 0.81, Color: Gray, Position: Top-Center, Width: 34, Height: 116
+Object: laptop, Confidence: 0.91, Color: Green, Position: Top-Left, Width: 213, Height: 192
+Object: mouse, Confidence: 0.27, Color: Black, Position: Center-Left, Width: 37, Height: 32
+Object: teddy bear, Confidence: 0.27, Color: Black, Position: Center-Right, Width: 163, Height: 149
+Object: cup, Confidence: 0.53, Color: Green, Position: Center-Left, Width: 35, Height: 31
+Object: bottle, Confidence: 0.79, Color: Gray, Position: Top-Center, Width: 33, Height: 114
+Object: laptop, Confidence: 0.87, Color: Green, Position: Top-Left, Width: 218, Height: 192
+Object: teddy bear, Confidence: 0.29, Color: Black, Position: Center-Right, Width: 161, Height: 148
+Object: cup, Confidence: 0.59, Color: White, Position: Center-Left, Width: 36, Height: 33
+Object: bottle, Confidence: 0.79, Color: Gray, Position: Top-Center, Width: 33, Height: 116
+Object: laptop, Confidence: 0.87, Color: Green, Position: Top-Left, Width: 221, Height: 193
+Object: teddy bear, Confidence: 0.34, Color: Black, Position: Center-Right, Width: 165, Height: 143
+Object: cup, Confidence: 0.49, Color: White, Position: Center-Left, Width: 35, Height: 31
+Object: bottle, Confidence: 0.81, Color: Gray, Position: Top-Center, Width: 33, Height: 116
+Object: laptop, Confidence: 0.89, Color: Green, Position: Top-Left, Width: 216, Height: 196
+Object: cup, Confidence: 0.38, Color: White, Position: Center-Left, Width: 37, Height: 33
+Object: sports ball, Confidence: 0.56, Color: Purple, Position: Center-Left, Width: 66, Height: 63
+Object: bottle, Confidence: 0.72, Color: Gray, Position: Top-Center, Width: 33, Height: 117
+Object: laptop, Confidence: 0.89, Color: Green, Position: Top-Left, Width: 215, Height: 195
+Object: teddy bear, Confidence: 0.38, Color: Black, Position: Center-Right, Width: 103, Height: 113
+Object: cup, Confidence: 0.46, Color: White, Position: Center-Left, Width: 35, Height: 30
+Object: sports ball, Confidence: 0.59, Color: Purple, Position: Center-Left, Width: 65, Height: 63
+Object: bottle, Confidence: 0.82, Color: Gray, Position: Top-Center, Width: 33, Height: 116
+Object: laptop, Confidence: 0.89, Color: Green, Position: Top-Left, Width: 218, Height: 195
+Object: mouse, Confidence: 0.29, Color: White, Position: Center-Left, Width: 34, Height: 33
+Object: keyboard, Confidence: 0.32, Color: Green, Position: Center-Left, Width: 133, Height: 56
+Object: teddy bear, Confidence: 0.46, Color: Green, Position: Center-Right, Width: 106, Height: 108
+Object: cup, Confidence: 0.57, Color: Green, Position: Center-Left, Width: 35, Height: 31
+Object: sports ball, Confidence: 0.71, Color: Green, Position: Center-Left, Width: 66, Height: 63
+Object: bottle, Confidence: 0.83, Color: Gray, Position: Top-Center, Width: 33, Height: 115
+Object: laptop, Confidence: 0.87, Color: Green, Position: Top-Left, Width: 225, Height: 191
+Object: person, Confidence: 0.26, Color: Black, Position: Top-Left, Width: 61, Height: 108
+Object: keyboard, Confidence: 0.31, Color: Black, Position: Center-Left, Width: 134, Height: 57
+Object: sports ball, Confidence: 0.43, Color: Green, Position: Center-Left, Width: 65, Height: 63
+Object: teddy bear, Confidence: 0.43, Color: Green, Position: Center-Right, Width: 102, Height: 111
+Object: cup, Confidence: 0.49, Color: Gray, Position: Center-Left, Width: 36, Height: 31
+Object: bottle, Confidence: 0.80, Color: Gray, Position: Top-Center, Width: 34, Height: 116
+Object: laptop, Confidence: 0.88, Color: Green, Position: Top-Left, Width: 225, Height: 191
+Object: keyboard, Confidence: 0.26, Color: Black, Position: Center-Left, Width: 130, Height: 56
+Object: sports ball, Confidence: 0.50, Color: Green, Position: Center-Left, Width: 65, Height: 63
+Object: cup, Confidence: 0.53, Color: Black, Position: Center-Left, Width: 36, Height: 31
+Object: bottle, Confidence: 0.82, Color: Gray, Position: Top-Center, Width: 33, Height: 116
+Object: laptop, Confidence: 0.89, Color: Green, Position: Top-Left, Width: 231, Height: 197
+Object: teddy bear, Confidence: 0.27, Color: Black, Position: Center-Right, Width: 101, Height: 112
+Object: cup, Confidence: 0.46, Color: White, Position: Center-Left, Width: 35, Height: 31
+Object: sports ball, Confidence: 0.49, Color: Other, Position: Center-Left, Width: 65, Height: 63
+Object: bottle, Confidence: 0.78, Color: Gray, Position: Top-Center, Width: 33, Height: 115
+Object: laptop, Confidence: 0.88, Color: Green, Position: Top-Left, Width: 242, Height: 194
+Object: sports ball, Confidence: 0.29, Color: Gray, Position: Center, Width: 91, Height: 83
+Object: bed, Confidence: 0.30, Color: Black, Position: Center, Width: 613, Height: 425
+Object: laptop, Confidence: 0.42, Color: Green, Position: Center-Left, Width: 135, Height: 111
+Object: sports ball, Confidence: 0.64, Color: Green, Position: Center-Left, Width: 81, Height: 74
+Object: bottle, Confidence: 0.74, Color: Green, Position: Top-Left, Width: 44, Height: 127
+Object: mouse, Confidence: 0.25, Color: Blue, Position: Center-Left, Width: 80, Height: 73
+Object: book, Confidence: 0.26, Color: Black, Position: Top-Right, Width: 138, Height: 80
+Object: keyboard, Confidence: 0.28, Color: Green, Position: Center-Left, Width: 62, Height: 72
+Object: sports ball, Confidence: 0.37, Color: Green, Position: Center-Left, Width: 80, Height: 74
+Object: laptop, Confidence: 0.65, Color: Green, Position: Center-Left, Width: 134, Height: 130
+Object: bottle, Confidence: 0.88, Color: Green, Position: Top-Left, Width: 44, Height: 125
+Object: sports ball, Confidence: 0.43, Color: Gray, Position: Center-Left, Width: 80, Height: 74
+Object: laptop, Confidence: 0.64, Color: Green, Position: Center-Left, Width: 134, Height: 136
+Object: bottle, Confidence: 0.82, Color: Green, Position: Top-Left, Width: 44, Height: 126
+Object: laptop, Confidence: 0.28, Color: Other, Position: Center-Left, Width: 68, Height: 79
+Object: laptop, Confidence: 0.31, Color: Green, Position: Top-Left, Width: 137, Height: 106
+Object: keyboard, Confidence: 0.34, Color: Green, Position: Center-Left, Width: 61, Height: 72
+Object: sports ball, Confidence: 0.40, Color: Green, Position: Center-Left, Width: 80, Height: 74
+Object: laptop, Confidence: 0.59, Color: Green, Position: Center-Left, Width: 132, Height: 102
+Object: bottle, Confidence: 0.87, Color: Green, Position: Top-Left, Width: 44, Height: 126
+Object: handbag, Confidence: 0.27, Color: Black, Position: Top-Left, Width: 81, Height: 112
+Object: bottle, Confidence: 0.78, Color: Green, Position: Top-Left, Width: 44, Height: 129
+Object: bottle, Confidence: 0.85, Color: White, Position: Top-Left, Width: 45, Height: 128
+Object: sports ball, Confidence: 0.26, Color: Other, Position: Center-Left, Width: 80, Height: 73
+Object: laptop, Confidence: 0.28, Color: Gray, Position: Top-Left, Width: 137, Height: 130
+Object: person, Confidence: 0.50, Color: Black, Position: Top-Right, Width: 231, Height: 252
+Object: laptop, Confidence: 0.57, Color: Green, Position: Center-Left, Width: 132, Height: 100
+Object: bottle, Confidence: 0.86, Color: Green, Position: Top-Left, Width: 43, Height: 126
+Object: laptop, Confidence: 0.28, Color: Gray, Position: Top-Left, Width: 137, Height: 110
+Object: laptop, Confidence: 0.53, Color: Green, Position: Center-Left, Width: 132, Height: 96
+Object: bottle, Confidence: 0.86, Color: Green, Position: Top-Left, Width: 45, Height: 127
+Object: laptop, Confidence: 0.32, Color: Gray, Position: Top-Left, Width: 136, Height: 122
+Object: laptop, Confidence: 0.56, Color: Green, Position: Center-Left, Width: 136, Height: 116
+Object: bottle, Confidence: 0.86, Color: Green, Position: Top-Left, Width: 45, Height: 127
+Object: sports ball, Confidence: 0.25, Color: Purple, Position: Center-Left, Width: 80, Height: 74
+Object: laptop, Confidence: 0.30, Color: Gray, Position: Top-Left, Width: 137, Height: 100
+Object: laptop, Confidence: 0.53, Color: Green, Position: Center-Left, Width: 133, Height: 107
+Object: bottle, Confidence: 0.85, Color: Green, Position: Top-Left, Width: 46, Height: 127
+Object: keyboard, Confidence: 0.28, Color: Other, Position: Center-Left, Width: 62, Height: 73
+Object: laptop, Confidence: 0.38, Color: Green, Position: Top-Left, Width: 137, Height: 104
+Object: book, Confidence: 0.39, Color: Green, Position: Top-Left, Width: 136, Height: 71
+Object: laptop, Confidence: 0.55, Color: Green, Position: Center-Left, Width: 136, Height: 136
+Object: bottle, Confidence: 0.86, Color: Green, Position: Top-Left, Width: 46, Height: 127
+Object: keyboard, Confidence: 0.26, Color: Other, Position: Center-Left, Width: 61, Height: 71
+Object: sports ball, Confidence: 0.28, Color: Green, Position: Center-Left, Width: 84, Height: 73
+Object: book, Confidence: 0.34, Color: Green, Position: Top-Left, Width: 138, Height: 72
+Object: laptop, Confidence: 0.59, Color: Green, Position: Center-Left, Width: 136, Height: 137
+Object: bottle, Confidence: 0.88, Color: Green, Position: Top-Left, Width: 44, Height: 128
+Object: book, Confidence: 0.33, Color: White, Position: Top-Left, Width: 136, Height: 73
+Object: keyboard, Confidence: 0.34, Color: Other, Position: Center-Left, Width: 61, Height: 72
+Object: laptop, Confidence: 0.62, Color: Green, Position: Center-Left, Width: 137, Height: 151
+Object: bottle, Confidence: 0.87, Color: Green, Position: Top-Left, Width: 46, Height: 126
+Object: keyboard, Confidence: 0.27, Color: Other, Position: Center-Left, Width: 61, Height: 73
+Object: book, Confidence: 0.33, Color: Green, Position: Top-Left, Width: 138, Height: 73
+Object: sports ball, Confidence: 0.34, Color: Green, Position: Center-Left, Width: 80, Height: 74
+Object: laptop, Confidence: 0.52, Color: Green, Position: Center-Left, Width: 138, Height: 141
+Object: bottle, Confidence: 0.86, Color: Green, Position: Top-Left, Width: 47, Height: 127
+Object: sports ball, Confidence: 0.27, Color: Other, Position: Center-Left, Width: 80, Height: 74
+Object: laptop, Confidence: 0.33, Color: White, Position: Top-Left, Width: 137, Height: 78
+Object: book, Confidence: 0.42, Color: Green, Position: Top-Left, Width: 138, Height: 71
+Object: laptop, Confidence: 0.59, Color: Green, Position: Center-Left, Width: 131, Height: 99
+Object: bottle, Confidence: 0.85, Color: Green, Position: Top-Left, Width: 47, Height: 127
+Object: sports ball, Confidence: 0.27, Color: Other, Position: Center-Left, Width: 80, Height: 74
+Object: bottle, Confidence: 0.32, Color: Gray, Position: Top-Left, Width: 57, Height: 118
+Object: book, Confidence: 0.34, Color: White, Position: Top-Left, Width: 138, Height: 71
+Object: laptop, Confidence: 0.37, Color: Green, Position: Top-Left, Width: 136, Height: 113
+Object: laptop, Confidence: 0.61, Color: Green, Position: Center-Left, Width: 134, Height: 123
+Object: bottle, Confidence: 0.85, Color: Green, Position: Top-Left, Width: 45, Height: 127
+Object: keyboard, Confidence: 0.25, Color: Other, Position: Center-Left, Width: 61, Height: 72
+Object: laptop, Confidence: 0.38, Color: Green, Position: Top-Left, Width: 135, Height: 98
+Object: book, Confidence: 0.39, Color: Green, Position: Top-Left, Width: 137, Height: 72
+Object: laptop, Confidence: 0.57, Color: Green, Position: Center-Left, Width: 137, Height: 135
+Object: bottle, Confidence: 0.87, Color: Green, Position: Top-Left, Width: 45, Height: 126
+Object: sports ball, Confidence: 0.32, Color: Purple, Position: Center-Left, Width: 83, Height: 74
+Object: laptop, Confidence: 0.41, Color: Green, Position: Center-Left, Width: 135, Height: 130
+Object: bottle, Confidence: 0.86, Color: Green, Position: Top-Left, Width: 46, Height: 130
+Object: laptop, Confidence: 0.33, Color: White, Position: Center-Left, Width: 134, Height: 148
+Object: laptop, Confidence: 0.34, Color: Green, Position: Center-Left, Width: 99, Height: 89
+Object: keyboard, Confidence: 0.35, Color: Green, Position: Center-Left, Width: 98, Height: 88
+Object: bottle, Confidence: 0.86, Color: Green, Position: Top-Left, Width: 46, Height: 127
+Object: bottle, Confidence: 0.84, Color: White, Position: Top-Left, Width: 44, Height: 126
+Object: sports ball, Confidence: 0.30, Color: Other, Position: Center-Left, Width: 81, Height: 75
+Object: mouse, Confidence: 0.30, Color: Green, Position: Center-Left, Width: 80, Height: 73
+Object: book, Confidence: 0.32, Color: Gray, Position: Top-Left, Width: 136, Height: 70
+Object: laptop, Confidence: 0.40, Color: Green, Position: Top-Left, Width: 135, Height: 94
+Object: laptop, Confidence: 0.62, Color: Green, Position: Center-Left, Width: 131, Height: 103
+Object: bottle, Confidence: 0.88, Color: Green, Position: Top-Left, Width: 44, Height: 126
+Object: mouse, Confidence: 0.26, Color: Other, Position: Center-Left, Width: 82, Height: 74
+Object: laptop, Confidence: 0.35, Color: White, Position: Top-Left, Width: 136, Height: 97
+Object: sports ball, Confidence: 0.54, Color: Green, Position: Center-Left, Width: 81, Height: 76
+Object: laptop, Confidence: 0.59, Color: Green, Position: Center-Left, Width: 131, Height: 96
+Object: bottle, Confidence: 0.86, Color: Green, Position: Top-Left, Width: 45, Height: 127
+Object: laptop, Confidence: 0.33, Color: White, Position: Top-Left, Width: 137, Height: 96
+Object: sports ball, Confidence: 0.54, Color: Other, Position: Center-Left, Width: 81, Height: 76
+Object: mouse, Confidence: 0.55, Color: Green, Position: Center-Left, Width: 82, Height: 76
+Object: laptop, Confidence: 0.56, Color: Green, Position: Center-Left, Width: 132, Height: 103
+Object: bottle, Confidence: 0.85, Color: Green, Position: Top-Left, Width: 46, Height: 128
+Object: laptop, Confidence: 0.28, Color: White, Position: Top-Left, Width: 136, Height: 79
+Object: laptop, Confidence: 0.55, Color: Green, Position: Center-Left, Width: 130, Height: 92
+Object: sports ball, Confidence: 0.57, Color: Green, Position: Center-Left, Width: 81, Height: 76
+Object: mouse, Confidence: 0.61, Color: Green, Position: Center-Left, Width: 82, Height: 76
+Object: bottle, Confidence: 0.87, Color: Green, Position: Top-Left, Width: 46, Height: 127
+Object: mouse, Confidence: 0.51, Color: Other, Position: Center-Left, Width: 82, Height: 76
+Object: laptop, Confidence: 0.52, Color: Green, Position: Center-Left, Width: 134, Height: 123
+Object: sports ball, Confidence: 0.53, Color: Green, Position: Center-Left, Width: 81, Height: 76
+Object: bottle, Confidence: 0.86, Color: Green, Position: Top-Left, Width: 47, Height: 127
+Object: mouse, Confidence: 0.48, Color: Other, Position: Center-Left, Width: 82, Height: 76
+Object: sports ball, Confidence: 0.52, Color: Green, Position: Center-Left, Width: 81, Height: 76
+Object: laptop, Confidence: 0.55, Color: Green, Position: Center-Left, Width: 137, Height: 140
+Object: bottle, Confidence: 0.86, Color: Green, Position: Top-Left, Width: 46, Height: 127
+Object: mouse, Confidence: 0.47, Color: Other, Position: Center-Left, Width: 82, Height: 76
+Object: sports ball, Confidence: 0.49, Color: Green, Position: Center-Left, Width: 81, Height: 76
+Object: laptop, Confidence: 0.59, Color: Green, Position: Center-Left, Width: 132, Height: 120
+Object: bottle, Confidence: 0.85, Color: Green, Position: Top-Left, Width: 46, Height: 127
+Object: laptop, Confidence: 0.33, Color: White, Position: Top-Left, Width: 136, Height: 76
+Object: laptop, Confidence: 0.51, Color: Green, Position: Center-Left, Width: 131, Height: 96
+Object: sports ball, Confidence: 0.52, Color: Green, Position: Center-Left, Width: 81, Height: 76
+Object: person, Confidence: 0.53, Color: Green, Position: Top-Left, Width: 184, Height: 121
+Object: mouse, Confidence: 0.54, Color: Green, Position: Center-Left, Width: 82, Height: 75
+Object: bottle, Confidence: 0.85, Color: Green, Position: Top-Left, Width: 48, Height: 127
+Object: laptop, Confidence: 0.28, Color: White, Position: Top-Left, Width: 138, Height: 107
+Object: sports ball, Confidence: 0.34, Color: Other, Position: Center-Left, Width: 82, Height: 76
+Object: person, Confidence: 0.38, Color: Green, Position: Top-Center, Width: 192, Height: 116
+Object: mouse, Confidence: 0.38, Color: Green, Position: Center-Left, Width: 82, Height: 74
+Object: laptop, Confidence: 0.62, Color: Green, Position: Center-Left, Width: 132, Height: 100
+Object: bottle, Confidence: 0.85, Color: Green, Position: Top-Left, Width: 48, Height: 125
+Object: mouse, Confidence: 0.48, Color: Other, Position: Center-Left, Width: 81, Height: 76
+Object: laptop, Confidence: 0.49, Color: Green, Position: Center-Left, Width: 131, Height: 94
+Object: sports ball, Confidence: 0.50, Color: Green, Position: Center-Left, Width: 81, Height: 76
+Object: bottle, Confidence: 0.84, Color: White, Position: Top-Left, Width: 45, Height: 126
+Object: laptop, Confidence: 0.32, Color: White, Position: Top-Left, Width: 139, Height: 74
+Object: sports ball, Confidence: 0.46, Color: Other, Position: Center-Left, Width: 81, Height: 76
+Object: mouse, Confidence: 0.51, Color: Green, Position: Center-Left, Width: 81, Height: 74
+Object: person, Confidence: 0.58, Color: Green, Position: Top-Center, Width: 184, Height: 120
+Object: laptop, Confidence: 0.60, Color: Green, Position: Center-Left, Width: 133, Height: 129
+Object: bottle, Confidence: 0.81, Color: Green, Position: Top-Left, Width: 46, Height: 127
+Object: laptop, Confidence: 0.30, Color: White, Position: Top-Left, Width: 137, Height: 112
+Object: mouse, Confidence: 0.33, Color: Other, Position: Center-Left, Width: 81, Height: 75
+Object: laptop, Confidence: 0.48, Color: Green, Position: Center-Left, Width: 135, Height: 107
+Object: sports ball, Confidence: 0.50, Color: Green, Position: Center-Left, Width: 81, Height: 76
+Object: bottle, Confidence: 0.82, Color: Green, Position: Top-Left, Width: 44, Height: 127
+Object: laptop, Confidence: 0.30, Color: Gray, Position: Top-Left, Width: 137, Height: 134
+Object: sports ball, Confidence: 0.38, Color: Other, Position: Center-Left, Width: 81, Height: 76
+Object: mouse, Confidence: 0.44, Color: Green, Position: Center-Left, Width: 80, Height: 74
+Object: laptop, Confidence: 0.52, Color: Green, Position: Center-Left, Width: 132, Height: 101
+Object: bottle, Confidence: 0.81, Color: Green, Position: Top-Left, Width: 49, Height: 127
+Object: person, Confidence: 0.25, Color: Gray, Position: Top-Left, Width: 96, Height: 117
+Object: book, Confidence: 0.28, Color: Gray, Position: Top-Left, Width: 137, Height: 72
+Object: mouse, Confidence: 0.40, Color: Other, Position: Center-Left, Width: 81, Height: 74
+Object: laptop, Confidence: 0.41, Color: Green, Position: Top-Left, Width: 136, Height: 91
+Object: sports ball, Confidence: 0.52, Color: Green, Position: Center-Left, Width: 81, Height: 76
+Object: laptop, Confidence: 0.58, Color: Green, Position: Center-Left, Width: 137, Height: 139
+Object: bottle, Confidence: 0.84, Color: Green, Position: Top-Left, Width: 44, Height: 128
+Object: laptop, Confidence: 0.26, Color: White, Position: Top-Left, Width: 136, Height: 100
+Object: person, Confidence: 0.33, Color: Green, Position: Top-Left, Width: 117, Height: 123
+Object: laptop, Confidence: 0.41, Color: Green, Position: Center-Left, Width: 132, Height: 90
+Object: bottle, Confidence: 0.78, Color: Green, Position: Top-Left, Width: 43, Height: 129
+Object: laptop, Confidence: 0.28, Color: Gray, Position: Top-Left, Width: 137, Height: 83
+Object: person, Confidence: 0.39, Color: Green, Position: Top-Left, Width: 134, Height: 112
+Object: laptop, Confidence: 0.41, Color: Green, Position: Center-Left, Width: 133, Height: 106
+Object: bottle, Confidence: 0.82, Color: Green, Position: Top-Left, Width: 44, Height: 128
+Object: laptop, Confidence: 0.56, Color: Gray, Position: Center-Left, Width: 136, Height: 149
+Object: bottle, Confidence: 0.83, Color: Green, Position: Top-Left, Width: 44, Height: 128
+Object: laptop, Confidence: 0.30, Color: Gray, Position: Top-Left, Width: 137, Height: 126
+Object: laptop, Confidence: 0.48, Color: Green, Position: Center-Left, Width: 133, Height: 115
+Object: person, Confidence: 0.51, Color: Green, Position: Top-Left, Width: 129, Height: 122
+Object: bottle, Confidence: 0.84, Color: Green, Position: Top-Left, Width: 46, Height: 127
+Object: laptop, Confidence: 0.52, Color: Gray, Position: Center-Left, Width: 130, Height: 97
+Object: person, Confidence: 0.74, Color: Gray, Position: Top-Center, Width: 130, Height: 122
+Object: bottle, Confidence: 0.86, Color: Green, Position: Top-Left, Width: 47, Height: 126
+Object: person, Confidence: 0.50, Color: White, Position: Top-Center, Width: 157, Height: 131
+Object: bottle, Confidence: 0.69, Color: Green, Position: Top-Left, Width: 45, Height: 128
+Object: person, Confidence: 0.49, Color: White, Position: Top-Left, Width: 154, Height: 120
+Object: bottle, Confidence: 0.75, Color: Green, Position: Top-Left, Width: 46, Height: 126
+Object: cell phone, Confidence: 0.31, Color: Black, Position: Top-Left, Width: 40, Height: 36
+Object: person, Confidence: 0.37, Color: Green, Position: Top-Left, Width: 187, Height: 121
+Object: bottle, Confidence: 0.82, Color: Green, Position: Top-Left, Width: 47, Height: 129
+Object: laptop, Confidence: 0.29, Color: White, Position: Top-Left, Width: 136, Height: 127
+Object: laptop, Confidence: 0.38, Color: Green, Position: Center-Left, Width: 133, Height: 91
+Object: bottle, Confidence: 0.75, Color: Green, Position: Top-Left, Width: 48, Height: 127
+Object: person, Confidence: 0.29, Color: White, Position: Top-Left, Width: 216, Height: 123
+Object: bottle, Confidence: 0.83, Color: Green, Position: Top-Left, Width: 46, Height: 129
+Object: bottle, Confidence: 0.51, Color: White, Position: Top-Center, Width: 45, Height: 111
+Object: bottle, Confidence: 0.86, Color: White, Position: Top-Left, Width: 46, Height: 126
+Object: umbrella, Confidence: 0.36, Color: Gray, Position: Top-Center, Width: 152, Height: 61
+Object: sports ball, Confidence: 0.87, Color: Gray, Position: Center, Width: 116, Height: 102
+Object: person, Confidence: 0.85, Color: White, Position: Center-Right, Width: 347, Height: 387
+Object: person, Confidence: 0.94, Color: White, Position: Bottom-Left, Width: 216, Height: 233
+Object: person, Confidence: 0.87, Color: White, Position: Center-Right, Width: 351, Height: 381
+Object: person, Confidence: 0.93, Color: White, Position: Bottom-Left, Width: 268, Height: 234
+Object: person, Confidence: 0.89, Color: White, Position: Center-Right, Width: 353, Height: 374
+Object: person, Confidence: 0.91, Color: White, Position: Bottom-Left, Width: 216, Height: 231
+Object: person, Confidence: 0.74, Color: White, Position: Bottom-Left, Width: 62, Height: 214
+Object: person, Confidence: 0.91, Color: White, Position: Center, Width: 451, Height: 350
+Object: person, Confidence: 0.78, Color: Gray, Position: Bottom-Left, Width: 75, Height: 119
+Object: person, Confidence: 0.90, Color: White, Position: Center, Width: 452, Height: 342
+Real-Time Object Detection Summary
+
+Object: sports ball, Confidence: 0.40, Color: Gray, Position: Bottom-Center, Width: 87, Height: 86
+Object: kite, Confidence: 0.61, Color: Other, Position: Bottom-Left, Width: 71, Height: 75
+Object: kite, Confidence: 0.49, Color: Gray, Position: Bottom-Left, Width: 72, Height: 74
+Object: sports ball, Confidence: 0.33, Color: Gray, Position: Bottom-Center, Width: 90, Height: 86
+Object: kite, Confidence: 0.57, Color: Other, Position: Bottom-Left, Width: 71, Height: 74
+Object: kite, Confidence: 0.57, Color: Gray, Position: Bottom-Left, Width: 72, Height: 74
+Object: sports ball, Confidence: 0.39, Color: Gray, Position: Bottom-Center, Width: 88, Height: 86
+Object: kite, Confidence: 0.61, Color: Other, Position: Bottom-Left, Width: 71, Height: 75
+Object: sports ball, Confidence: 0.28, Color: Gray, Position: Bottom-Center, Width: 91, Height: 86
+Object: kite, Confidence: 0.26, Color: Gray, Position: Center, Width: 476, Height: 202
+Object: sports ball, Confidence: 0.27, Color: Purple, Position: Bottom-Center, Width: 92, Height: 89
+Object: sports ball, Confidence: 0.27, Color: Gray, Position: Bottom-Center, Width: 88, Height: 90
+Object: kite, Confidence: 0.32, Color: Gray, Position: Bottom-Center, Width: 90, Height: 89
+Object: sports ball, Confidence: 0.32, Color: Gray, Position: Bottom-Center, Width: 92, Height: 90
+Object: sports ball, Confidence: 0.31, Color: Gray, Position: Bottom-Center, Width: 92, Height: 90
+Object: kite, Confidence: 0.26, Color: Gray, Position: Bottom-Center, Width: 93, Height: 89
+Object: sports ball, Confidence: 0.38, Color: Green, Position: Bottom-Center, Width: 92, Height: 90
+Object: sports ball, Confidence: 0.37, Color: Gray, Position: Bottom-Center, Width: 92, Height: 89
+Object: kite, Confidence: 0.30, Color: Gray, Position: Bottom-Center, Width: 92, Height: 90
+Object: sports ball, Confidence: 0.39, Color: Green, Position: Bottom-Center, Width: 92, Height: 90
+Object: sports ball, Confidence: 0.34, Color: Gray, Position: Bottom-Center, Width: 89, Height: 89
+Object: sports ball, Confidence: 0.40, Color: Gray, Position: Bottom-Center, Width: 92, Height: 91
+Object: sports ball, Confidence: 0.31, Color: Gray, Position: Bottom-Center, Width: 92, Height: 89
+Object: sports ball, Confidence: 0.42, Color: Gray, Position: Bottom-Center, Width: 91, Height: 88
+Object: sports ball, Confidence: 0.50, Color: Gray, Position: Bottom-Center, Width: 91, Height: 89
+Object: sports ball, Confidence: 0.42, Color: Gray, Position: Bottom-Center, Width: 90, Height: 90
+Object: kite, Confidence: 0.28, Color: Gray, Position: Bottom-Center, Width: 90, Height: 89
+Object: sports ball, Confidence: 0.37, Color: Gray, Position: Bottom-Center, Width: 91, Height: 88
+Object: sports ball, Confidence: 0.31, Color: Gray, Position: Bottom-Center, Width: 91, Height: 89
+Object: sports ball, Confidence: 0.45, Color: Gray, Position: Bottom-Center, Width: 92, Height: 89
+Object: sports ball, Confidence: 0.38, Color: Gray, Position: Bottom-Center, Width: 91, Height: 88
+Object: sports ball, Confidence: 0.36, Color: Gray, Position: Bottom-Center, Width: 89, Height: 89
+Object: sports ball, Confidence: 0.30, Color: Gray, Position: Bottom-Center, Width: 91, Height: 89
+Object: sports ball, Confidence: 0.28, Color: Gray, Position: Bottom-Center, Width: 92, Height: 91
+Object: sports ball, Confidence: 0.26, Color: Gray, Position: Bottom-Center, Width: 89, Height: 89
+Object: sports ball, Confidence: 0.34, Color: Gray, Position: Bottom-Center, Width: 91, Height: 89
+Object: sports ball, Confidence: 0.35, Color: Gray, Position: Bottom-Center, Width: 91, Height: 89
+Object: sports ball, Confidence: 0.34, Color: Gray, Position: Bottom-Center, Width: 91, Height: 89
+Object: sports ball, Confidence: 0.27, Color: Gray, Position: Bottom-Center, Width: 88, Height: 89
+Object: sports ball, Confidence: 0.25, Color: Gray, Position: Bottom-Center, Width: 90, Height: 89
+Object: sports ball, Confidence: 0.26, Color: Gray, Position: Bottom-Center, Width: 90, Height: 89
+Object: sports ball, Confidence: 0.30, Color: Gray, Position: Bottom-Center, Width: 92, Height: 90
+Object: sports ball, Confidence: 0.36, Color: Gray, Position: Bottom-Center, Width: 92, Height: 90
+Object: sports ball, Confidence: 0.28, Color: Gray, Position: Bottom-Center, Width: 92, Height: 90
+Object: sports ball, Confidence: 0.35, Color: Gray, Position: Bottom-Center, Width: 92, Height: 90
+Object: sports ball, Confidence: 0.28, Color: Gray, Position: Bottom-Center, Width: 91, Height: 89
+Object: sports ball, Confidence: 0.29, Color: Gray, Position: Bottom-Center, Width: 92, Height: 90
+Object: sports ball, Confidence: 0.35, Color: Gray, Position: Bottom-Center, Width: 92, Height: 90
+Object: sports ball, Confidence: 0.42, Color: Gray, Position: Bottom-Center, Width: 92, Height: 90
+Object: sports ball, Confidence: 0.35, Color: Gray, Position: Bottom-Center, Width: 92, Height: 90
+Object: sports ball, Confidence: 0.36, Color: Gray, Position: Bottom-Center, Width: 92, Height: 90
+Object: kite, Confidence: 0.28, Color: Gray, Position: Bottom-Center, Width: 91, Height: 89
+Object: sports ball, Confidence: 0.28, Color: Gray, Position: Bottom-Center, Width: 92, Height: 89
+Object: kite, Confidence: 0.31, Color: Green, Position: Bottom-Center, Width: 91, Height: 90
+Object: sports ball, Confidence: 0.25, Color: Gray, Position: Bottom-Center, Width: 90, Height: 89
+Object: kite, Confidence: 0.27, Color: Green, Position: Bottom-Center, Width: 91, Height: 89
+Object: sports ball, Confidence: 0.35, Color: Gray, Position: Bottom-Center, Width: 92, Height: 89
+Object: kite, Confidence: 0.35, Color: Green, Position: Bottom-Center, Width: 91, Height: 90
+Object: sports ball, Confidence: 0.43, Color: Gray, Position: Bottom-Center, Width: 91, Height: 89
+Object: kite, Confidence: 0.27, Color: Gray, Position: Bottom-Center, Width: 91, Height: 89
+Object: sports ball, Confidence: 0.31, Color: Green, Position: Bottom-Center, Width: 90, Height: 90
+Object: kite, Confidence: 0.26, Color: Gray, Position: Bottom-Center, Width: 91, Height: 88
+Object: sports ball, Confidence: 0.39, Color: Gray, Position: Bottom-Center, Width: 91, Height: 88
+Object: kite, Confidence: 0.25, Color: Gray, Position: Bottom-Center, Width: 91, Height: 88
+Object: sports ball, Confidence: 0.36, Color: Green, Position: Bottom-Center, Width: 91, Height: 89
+Object: kite, Confidence: 0.31, Color: Gray, Position: Bottom-Center, Width: 91, Height: 90
+Object: sports ball, Confidence: 0.31, Color: Green, Position: Bottom-Center, Width: 92, Height: 89
+Object: sports ball, Confidence: 0.27, Color: Gray, Position: Bottom-Center, Width: 90, Height: 89
+Object: sports ball, Confidence: 0.38, Color: Gray, Position: Bottom-Center, Width: 92, Height: 88
+Object: kite, Confidence: 0.58, Color: Gray, Position: Bottom-Left, Width: 87, Height: 87
+Object: kite, Confidence: 0.40, Color: Gray, Position: Bottom-Left, Width: 87, Height: 87
+Object: kite, Confidence: 0.32, Color: Gray, Position: Bottom-Center, Width: 86, Height: 85
+Object: kite, Confidence: 0.26, Color: Gray, Position: Bottom-Left, Width: 86, Height: 88
+Object: person, Confidence: 0.58, Color: Black, Position: Center-Left, Width: 351, Height: 308
+Object: cat, Confidence: 0.25, Color: Black, Position: Center-Left, Width: 222, Height: 158
+Object: person, Confidence: 0.73, Color: Gray, Position: Bottom-Left, Width: 187, Height: 145
+Object: teddy bear, Confidence: 0.27, Color: Black, Position: Bottom-Center, Width: 146, Height: 157
+Object: teddy bear, Confidence: 0.55, Color: Gray, Position: Center, Width: 145, Height: 155
+Object: teddy bear, Confidence: 0.32, Color: Black, Position: Center-Right, Width: 129, Height: 142
+Object: teddy bear, Confidence: 0.33, Color: Black, Position: Center-Right, Width: 118, Height: 140
+Object: teddy bear, Confidence: 0.48, Color: Gray, Position: Center-Right, Width: 120, Height: 140
+Object: teddy bear, Confidence: 0.39, Color: Black, Position: Center-Right, Width: 118, Height: 141
+Object: teddy bear, Confidence: 0.34, Color: Gray, Position: Center-Right, Width: 122, Height: 143
+Object: teddy bear, Confidence: 0.40, Color: Gray, Position: Center-Right, Width: 135, Height: 144
+Object: person, Confidence: 0.84, Color: Gray, Position: Bottom-Left, Width: 145, Height: 143
+Object: person, Confidence: 0.69, Color: Gray, Position: Center, Width: 534, Height: 473
